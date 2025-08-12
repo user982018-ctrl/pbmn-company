@@ -1,0 +1,1902 @@
+# Translation of Themes - Blossom Spa in Vietnamese
+# This file is distributed under the same license as the Themes - Blossom Spa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-23 14:45:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Blossom Spa\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Blossom Spa"
+msgstr "Blossom Spa"
+
+#: inc/custom-functions.php:411
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: inc/custom-functions.php:405
+msgid "Day"
+msgstr "Ngày"
+
+#: inc/custom-functions.php:403 inc/custom-functions.php:405
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/custom-functions.php:399
+msgid "Month"
+msgstr "Tháng"
+
+#: inc/custom-functions.php:397 inc/custom-functions.php:399
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/custom-functions.php:393
+msgid "Year"
+msgstr "Năm"
+
+#: inc/custom-functions.php:391 inc/custom-functions.php:393
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/customizer/general.php:206
+msgid "Choose background Image of your choice. Recommended size for this image is 1920px by 232px. Works on archive, search pages."
+msgstr "Lựa chọn hình ảnh nền. Kích thước được đề xuất cho hình ảnh này là 1920px x 232px. Hiển thị trên các trang lưu trữ, tìm kiếm."
+
+#: inc/customizer/general.php:205
+msgid "Header Background Image"
+msgstr "Ảnh nền tiêu đề"
+
+#: build/dashboard.js:5711 src/pages/FAQ/index.jsx:12
+msgid "With the Pro version, you can change the look and feel of your website in seconds. In just a few clicks, you can change the color and typography of your website. The premium version lets you have better control over the theme as it comes with more customization options. Not just that, the theme also has more sections and layout options as compared to the free version. The Pro version is multi-language compatible as well."
+msgstr "Với phiên bản Pro, bạn có thể thay đổi giao diện trang web của mình sau vài giây. Chỉ trong vài cú nhấp chuột, bạn có thể thay đổi màu sắc và kiểu chữ của trang web của bạn. Phiên bản cao cấp cho phép bạn kiểm soát tốt hơn chủ đề vì nó đi kèm với nhiều tùy chọn tùy chỉnh hơn. Không chỉ vậy, chủ đề còn có nhiều phần và tùy chọn bố cục hơn so với phiên bản miễn phí. Phiên bản Pro cũng tương thích đa ngôn ngữ."
+
+#: inc/extras.php:794
+msgid "404 Error - Page Not Found"
+msgstr "Lỗi 404 - Không tìm thấy trang"
+
+#: inc/template-functions.php:38
+msgid "Skip to Content"
+msgstr "Chuyển tới nội dung"
+
+#: inc/custom-functions.php:317
+msgid "Full Name"
+msgstr "Tên đầy đủ"
+
+#: inc/template-functions.php:549
+msgid " Blossom Themes"
+msgstr "Blossom Themes"
+
+#: inc/template-functions.php:548
+msgid " Blossom Spa | Developed By "
+msgstr "Blossom Spa | Phát triển bởi"
+
+#: inc/custom-functions.php:511
+msgid "Dismiss"
+msgstr "Hủy"
+
+#: inc/custom-functions.php:508
+msgid "Congratulations!"
+msgstr "Chúc mừng!"
+
+#: inc/custom-functions.php:509
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr "%1$s hiện đã được cài đặt và sẵn sàng để sử dụng. Nhấp vào bên dưới để xem hướng dẫn sử dụng, plugin cần cài đặt và các chi tiết khác để bắt đầu."
+
+#: inc/customizer/home.php:815
+msgid "Enable to show default content of home page instead of predefined home page sections."
+msgstr "Bật để hiện nội dung mặc định của trang chủ thay vì các phần trang chủ định trước."
+
+#: inc/customizer/home.php:814
+msgid "Enable to hide All Home Section"
+msgstr "Bật để ẩn tất cả các phần trang chủ"
+
+#: inc/typography.php:369
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/typography.php:368
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/typography.php:367
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/typography.php:366
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/typography.php:365
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/typography.php:364
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/typography.php:363
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/typography.php:362
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/typography.php:361
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/typography.php:360
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/typography.php:359
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/typography.php:358
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/typography.php:357
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/typography.php:27
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: inc/typography.php:26
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "bật"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/typography.php:25
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: inc/widgets.php:64
+msgid "Add footer four widgets here."
+msgstr "Thêm 4 footer widget tại đây."
+
+#: inc/widgets.php:62
+msgid "Footer Four"
+msgstr "Footer 4"
+
+#: inc/widgets.php:59
+msgid "Add footer three widgets here."
+msgstr "Thêm 3 footer widget tại đây."
+
+#: inc/widgets.php:57
+msgid "Footer Three"
+msgstr "Footer 3"
+
+#: inc/widgets.php:54
+msgid "Add footer two widgets here."
+msgstr "Thêm 2 footer widget tại đây."
+
+#: inc/widgets.php:52
+msgid "Footer Two"
+msgstr "Footer 2"
+
+#: inc/widgets.php:49
+msgid "Add footer one widgets here."
+msgstr "Thêm 1 footer widget tại đây."
+
+#: inc/widgets.php:47
+msgid "Footer One"
+msgstr "Footer 1"
+
+#: inc/widgets.php:44
+msgid "Add \"Blossom: Testimonial\" widget for testimonial section."
+msgstr "Thêm widget \"Blossom: Testimonial\" cho phần chứng thực."
+
+#: inc/widgets.php:39
+msgid "Add \"Blossom: Team Member\" widget for team section."
+msgstr "Thêm widget \"Blossom: Thành viên nhóm\" cho phần nhóm."
+
+#: inc/widgets.php:34
+msgid "Add \"Blossom: Call To Action\" widget for Call to Action section."
+msgstr "Thêm widget \"Blossom: Call to Action\" cho phần Call to Action."
+
+#: inc/widgets.php:32
+msgid "Call To Action Section"
+msgstr "Phần Call To Action"
+
+#: inc/widgets.php:29
+msgid "Add \"Image\" and \"Blossom: Icon Text\" widget for service section."
+msgstr "Thêm widget \"Hình ảnh\" và \"Blossom: Icon Text\" cho phần dịch vụ."
+
+#: inc/widgets.php:27
+msgid "Service Two Section"
+msgstr "Phần Dịch vụ 2"
+
+#: inc/extras.php:837
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ duyệt."
+
+#: inc/extras.php:833
+msgid "%1$s at %2$s"
+msgstr "%1$s lúc %2$s"
+
+#: inc/extras.php:797
+msgid ")"
+msgstr ")"
+
+#: inc/extras.php:797
+msgid " (Page"
+msgstr "(Trang"
+
+#: inc/extras.php:746
+msgid "Page %s"
+msgstr "Trang %s"
+
+#: inc/extras.php:624
+msgid "d"
+msgstr "d"
+
+#: inc/customizer/footer.php:32
+msgid "Footer Copyright Text"
+msgstr "Bản quyền"
+
+#: inc/customizer/footer.php:13 build/dashboard.js:5900
+#: src/pages/Home/index.jsx:38
+msgid "Footer Settings"
+msgstr "Cài đặt Footer"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: single-blossom-portfolio.php:27
+msgid "Related Projects"
+msgstr "Các dự án liên quan"
+
+#: inc/widgets.php:24
+msgid "Add \"Blossom: Featured Page Widget\" for about section."
+msgstr "Thêm widget \"Blossom: Featured Page Widget\" cho phần giới thiệu."
+
+#: inc/widgets.php:19
+msgid "Add \"Text\" and \"Blossom: Icon Text\" widget for service section."
+msgstr "Thêm widget \"Text\" và \"Blossom: Icon Text\" cho phần dịch vụ."
+
+#: inc/widgets.php:17
+msgid "Service Section"
+msgstr "Phần Dịch vụ"
+
+#: inc/widgets.php:22
+msgid "About Section"
+msgstr "Phần Giới thiệu"
+
+#: inc/extras.php:622 inc/extras.php:631
+msgid "F"
+msgstr "F"
+
+#: inc/extras.php:622 inc/extras.php:624 inc/extras.php:631
+msgid "m"
+msgstr "m"
+
+#: inc/extras.php:615
+msgid "\""
+msgstr "\""
+
+#: inc/extras.php:615
+msgid "Search Results for \""
+msgstr "Kết quả tìm kiếm cho \""
+
+#: inc/extras.php:456
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/extras.php:444 inc/extras.php:479
+msgid "Click here to add a menu"
+msgstr "Bấm vào đây để thêm một menu"
+
+#. translators: 1: list of tags.
+#: inc/extras.php:125
+msgid "%1$sTags:%2$s %3$s"
+msgstr "%1$sThẻ:%2$s %3$s"
+
+#. translators: %s: post title
+#: inc/extras.php:80
+msgid "No Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Không có bình luận<span class=\"screen-reader-text\"> ở %s</span>"
+
+#: inc/customizer/general.php:711
+msgid "Shop Page Description"
+msgstr "Mô tả trang Cửa hàng"
+
+#: inc/customizer/general.php:690
+msgid "Misc Settings"
+msgstr "Cài đặt khác"
+
+#: inc/customizer/general.php:659
+msgid "Instagram Section"
+msgstr "Phần Instagram"
+
+#: inc/customizer/general.php:638 build/dashboard.js:5886
+#: src/pages/Home/index.jsx:26
+msgid "Instagram Settings"
+msgstr "Cài đặt Instagram"
+
+#: inc/customizer/general.php:626
+msgid "Show Featured Image"
+msgstr "Hiển thị Hình ảnh nổi bật"
+
+#: inc/customizer/general.php:605
+msgid "Hide Posted Date"
+msgstr "Ẩn ngày đăng"
+
+#: inc/customizer/general.php:584
+msgid "Hide Post Author"
+msgstr "Ẩn tác giả bài viết"
+
+#: inc/customizer/general.php:563
+msgid "Hide Category"
+msgstr "Ẩn chuyên mục"
+
+#: inc/customizer/general.php:542
+msgid "Hide Comments"
+msgstr "Ẩn bình luận"
+
+#: inc/customizer/general.php:517
+msgid "Related Posts Section Title"
+msgstr "Tiêu đề phần bài viết liên quan"
+
+#: inc/customizer/general.php:496
+msgid "Show Related Posts"
+msgstr "Hiển thị bài viết liên quan"
+
+#: inc/customizer/general.php:476
+msgid "%s These options affect your individual posts."
+msgstr "%s Các tùy chọn này ảnh hưởng đến bài viết cá nhân của bạn."
+
+#: inc/customizer/general.php:452
+msgid "Read More Text"
+msgstr "Đọc thêm"
+
+#: inc/customizer/general.php:427
+msgid "Automatically generated excerpt length (in words)."
+msgstr "Tự động tạo độ dài đoạn trích (bằng chữ)."
+
+#: inc/customizer/general.php:426
+msgid "Excerpt Length"
+msgstr "Độ dài đoạn trích"
+
+#: inc/customizer/general.php:384
+msgid "Hide Prefix in Archive Page"
+msgstr "Ẩn đầu ngữ trong trang lưu trữ"
+
+#: inc/customizer/general.php:363
+msgid "Posts(Blog) & Pages Settings"
+msgstr "Cài đặt Bài viết(Blog) và Trang"
+
+#: inc/customizer/general.php:344 inc/extras.php:493 build/dashboard.js:6383
+#: src/pages/index.js:16
+msgid "Home"
+msgstr "Trang chủ"
+
+#: inc/customizer/general.php:334
+msgid "Enable Breadcrumb"
+msgstr "Bật Breadcrumb"
+
+#: inc/customizer/general.php:292
+msgid "SEO Settings"
+msgstr "Cài đặt SEO"
+
+#: inc/customizer/general.php:277
+msgid "links"
+msgstr "các liên kết"
+
+#: inc/customizer/general.php:272
+msgid "Example: https://facebook.com"
+msgstr "Ví dụ: https://facebook.com"
+
+#: inc/customizer/general.php:271
+msgid "Link"
+msgstr "Liên kết"
+
+#: inc/customizer/general.php:267
+msgid "Example: fab fa-facebook-f"
+msgstr "Ví dụ: fab fa-facebook-f"
+
+#: inc/customizer/general.php:266
+msgid "Font Awesome Icon"
+msgstr "Font Awesome Icon"
+
+#: inc/customizer/general.php:262
+msgid "Social Links"
+msgstr "Liên kết mạng xã hội"
+
+#: inc/customizer/general.php:240
+msgid "Enable to show social links at header and in footer."
+msgstr "Cho phép hiển thị các liên kết xã hội ở đầu trang và chân trang."
+
+#: inc/customizer/general.php:239
+msgid "Enable Social Links"
+msgstr "Bật liên kết mạng xã hội"
+
+#: inc/customizer/general.php:163
+msgid "Opening Hours Label"
+msgstr "Nhãn Giờ mở cửa"
+
+#: inc/customizer/general.php:115
+msgid "Email Label"
+msgstr "Nhãn Email"
+
+#: inc/customizer/general.php:91 inc/extras.php:257
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: inc/customizer/general.php:68
+msgid "Phone Label"
+msgstr "Nhãn Điện thoại"
+
+#: inc/customizer/general.php:47
+msgid "Enable to show Search button in header."
+msgstr "Bật để hiển thị nút Tìm kiếm ở đầu trang."
+
+#: inc/customizer/general.php:46
+msgid "Enable Header Search"
+msgstr "Bật tìm kiếm đầu trang"
+
+#: inc/customizer/general.php:25
+msgid "Header Settings"
+msgstr "Cài đặt đầu trang"
+
+#: inc/customizer/general.php:17
+msgid "Customize Header, Social, Sharing, SEO, Post/Page, Newsletter, Performance and Miscellaneous settings."
+msgstr "Tùy chỉnh đầu trang, mạng xã hội, chia sẻ, SEO, bài viết/trang, bản tin, hiệu suất và các cài đặt khác."
+
+#: inc/customizer/general.php:16 build/dashboard.js:5893
+#: src/pages/Home/index.jsx:32
+msgid "General Settings"
+msgstr "Cài đặt chung"
+
+#: inc/customizer/layout.php:295
+msgid "This is the general sidebar layout for whole site."
+msgstr "Đây là cách bố trí sidebar chung cho toàn bộ trang web."
+
+#: inc/customizer/layout.php:294
+msgid "Default Sidebar Layout"
+msgstr "Bố cục Sidebar mặc định"
+
+#: inc/customizer/layout.php:268
+msgid "This is the general sidebar layout for posts & custom post. You can override the sidebar layout for individual post in respective post."
+msgstr "Đây là cách bố trí sidebar chung cho bài viết & bài tùy chỉnh. Bạn có thể ghi đè bố cục sidebar cho từng bài viết trong bài tương ứng."
+
+#: inc/customizer/layout.php:267
+msgid "Post Sidebar Layout"
+msgstr "Bố cục Sidebar trong bài viết"
+
+#: inc/customizer/layout.php:241
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "Đây là cách bố trí sidebar chung cho các trang. Bạn có thể ghi đè bố cục sidebar cho từng trang trong trang tương ứng."
+
+#: inc/customizer/layout.php:240
+msgid "Page Sidebar Layout"
+msgstr "Bố cục Sidebar trong trang"
+
+#: inc/customizer/general.php:335
+msgid "Enable to show breadcrumb in inner pages."
+msgstr "Bật để hiển thị breadcrumb trong các trang bên trong."
+
+#: inc/customizer/general.php:313
+msgid "Enable Last Update Post Date"
+msgstr "Bật ngày cập nhật bài viết mới nhất"
+
+#: inc/customizer/general.php:385
+msgid "Enable to hide prefix in archive page."
+msgstr "Bật để ẩn đầu ngữ trong trang lưu trữ."
+
+#: inc/customizer/general.php:406
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr "Bật để hiển thị đoạn trích hoặc vô hiệu hóa để hiển thị toàn bộ nội dung bài viết."
+
+#: inc/customizer/general.php:497
+msgid "Enable to show related posts in single page."
+msgstr "Bật để hiển thị bài viết liên quan trong trang đơn."
+
+#: inc/customizer/general.php:543
+msgid "Enable to hide Comments in Single Post/Page."
+msgstr "Bật để ẩn nhận xét trong Bài viết/Trang đơn."
+
+#: inc/customizer/general.php:405
+msgid "Enable Blog Excerpt"
+msgstr "Bật đoạn trích Blog"
+
+#: inc/customizer/general.php:660
+msgid "Enable to show Instagram Section"
+msgstr "Bật để hiển thị phần Instagram"
+
+#: inc/customizer/general.php:627
+msgid "Enable to show featured image in post detail (single post)."
+msgstr "Bật để hiển thị hình ảnh nổi bật trong chi tiết bài viết (bài viết đơn)."
+
+#: inc/customizer/general.php:606
+msgid "Enable to hide posted date."
+msgstr "Bật để ẩn ngày đăng."
+
+#: inc/customizer/general.php:585
+msgid "Enable to hide post author."
+msgstr "Bật để ẩn tác giả bài viết."
+
+#: inc/customizer/general.php:564
+msgid "Enable to hide category."
+msgstr "Bật để ẩn chuyên mục."
+
+#: inc/customizer/general.php:712
+msgid "Enable to show Shop Page Description."
+msgstr "Bật để hiển thị mô tả trang Cửa hàng."
+
+#: inc/customizer/layout.php:219
+msgid "General Sidebar Layout"
+msgstr "Bố cục sidebar chung"
+
+#: inc/customizer/layout.php:159
+msgid "Choose the blog page layout for your site."
+msgstr "Chọn bố cục trang blog cho trang web của bạn."
+
+#: inc/customizer/layout.php:137 inc/customizer/layout.php:158
+msgid "Blog Page Layout"
+msgstr "Bố cục trang Blog"
+
+#: inc/customizer/layout.php:17
+msgid "Change different page layout from here."
+msgstr "Thay đổi bố cục trang ở đây."
+
+#: inc/customizer/layout.php:16 build/dashboard.js:5879
+#: src/pages/Home/index.jsx:20
+msgid "Layout Settings"
+msgstr "Cài đặt bố cục"
+
+#: inc/customizer/info.php:124
+msgid "VIEW PRO THEME"
+msgstr "Xem bản Pro"
+
+#: inc/customizer/info.php:122
+msgid "Pro Available"
+msgstr "Đã có bản Pro"
+
+#: inc/customizer/info.php:26
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Liên kết tài liệu: %1$sNhấp vào đây.%2$s"
+
+#: inc/customizer/info.php:24
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Liên kết demo: %1$sNhấp vào đây.%2$s"
+
+#: inc/customizer/general.php:218
+msgid "Social Media Settings"
+msgstr "Cài đặt mạng xã hội"
+
+#: inc/customizer/home.php:788
+msgid "View All Label"
+msgstr "Nhãn Xem tất cả"
+
+#: inc/customizer/home.php:764
+msgid "Read More Label"
+msgstr "Nhãn Đọc thêm"
+
+#: inc/customizer/home.php:717
+msgid "Blog Title"
+msgstr "Tiêu đề Blog"
+
+#: inc/customizer/home.php:678
+msgid "Blog Section"
+msgstr "Phần Blog"
+
+#: inc/customizer/home.php:741
+msgid "Blog Description"
+msgstr "Mô tả Blog"
+
+#: inc/customizer/home.php:653
+msgid "Add description for team section."
+msgstr "Thêm mô tả cho phần đội nhóm."
+
+#: inc/customizer/home.php:522 inc/customizer/home.php:610
+msgid "<hr/>"
+msgstr "<hr/>"
+
+#: inc/customizer/home.php:652
+msgid "Team Section Description"
+msgstr "Mô tả phần đội nhóm"
+
+#: inc/customizer/home.php:629
+msgid "Add title for team section."
+msgstr "Thêm tiêu đề cho phần đội nhóm."
+
+#: inc/customizer/home.php:628
+msgid "Team Section Title"
+msgstr "Tiêu đề phần đội nhóm"
+
+#: inc/customizer/home.php:590 inc/widgets.php:37
+msgid "Team Section"
+msgstr "Phần đội nhóm"
+
+#: inc/customizer/home.php:565
+msgid "Add description for testimonial section."
+msgstr "Thêm mô tả cho phần đánh giá từ khách hàng."
+
+#: inc/customizer/home.php:564
+msgid "Testimonial Section Description"
+msgstr "Mô tả phần Đánh giá từ khách hàng"
+
+#: inc/customizer/home.php:541
+msgid "Add title for testimonial section."
+msgstr "Thêm tiêu đề cho phần đánh giá từ khách hàng."
+
+#: inc/customizer/home.php:540
+msgid "Testimonial Section Title"
+msgstr "Tiêu đề phần Đánh giá từ khách hàng"
+
+#: inc/customizer/home.php:502 inc/widgets.php:42
+msgid "Testimonial Section"
+msgstr "Phần đánh giá từ khách hàng"
+
+#: inc/customizer/home.php:96
+msgid "Sub Title"
+msgstr "Tiêu đề phụ"
+
+#: inc/customizer/home.php:71
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/customizer/home.php:17
+msgid "Static Home Page settings."
+msgstr "Cài đặt trang chủ."
+
+#: inc/customizer/home.php:16
+msgid "Front Page Settings"
+msgstr "Cài đặt trang chủ"
+
+#: inc/customizer/appearance.php:67
+msgid "Secondary font of the site."
+msgstr "Phông chữ thứ hai của trang web."
+
+#: inc/customizer/appearance.php:66
+msgid "Secondary Font"
+msgstr "Phông chữ thứ hai"
+
+#: inc/customizer/appearance.php:45
+msgid "Primary font of the site."
+msgstr "Phông chữ chính của trang web."
+
+#: inc/customizer/appearance.php:44
+msgid "Primary Font"
+msgstr "Phông chữ chính"
+
+#: inc/customizer/appearance.php:24
+msgid "Typography"
+msgstr "Kiểu chữ"
+
+#: inc/customizer/appearance.php:16
+msgid "Customize Typography, Background Image & Color."
+msgstr "Tuỳ chỉnh kiểu chữ, ảnh nền và màu sắc."
+
+#: inc/customizer/appearance.php:13
+msgid "Appearance Settings"
+msgstr "Cài đặt giao diện"
+
+#: inc/customizer/site.php:67
+msgid "Change the font size of your site title."
+msgstr "Thay đổi kích thước phông chữ của tiêu đề trang web của bạn."
+
+#: inc/customizer/site.php:66
+msgid "Site Title Font Size"
+msgstr "Kích thước phông chữ tiêu đề trang web"
+
+#: inc/customizer/site.php:44
+msgid "Site title and tagline font."
+msgstr "Phông chữ tiêu đề trang và tagline."
+
+#: inc/customizer/site.php:43
+msgid "Site Title Font"
+msgstr "Phông chữ tiêu đề trang web"
+
+#: inc/partials.php:221
+msgid " All Rights Reserved."
+msgstr "Đã đăng ký bản quyền."
+
+#: inc/partials.php:218
+msgid "&copy; Copyright "
+msgstr "&copy; Bản quyền"
+
+#: inc/customizer/general.php:506 inc/extras.php:147 inc/extras.php:156
+#: inc/partials.php:203
+msgid "Recommended Articles"
+msgstr "Bài viết được đề xuất"
+
+#: inc/customizer/general.php:175 inc/partials.php:194
+msgid "Mon - Fri: 7AM - 7PM"
+msgstr "thứ Hai - thứ Sáu: 7AM - 7PM"
+
+#: inc/customizer/general.php:152 inc/customizer/general.php:186
+#: inc/extras.php:261 inc/partials.php:185
+msgid "Opening Hours"
+msgstr "Giờ mở cửa"
+
+#: inc/customizer/general.php:127 inc/partials.php:176
+msgid "mail@domain.com"
+msgstr "mail@domain.com"
+
+#: inc/custom-functions.php:319 inc/customizer/general.php:104
+#: inc/customizer/general.php:138 inc/extras.php:259 inc/partials.php:167
+msgid "Email"
+msgstr "Email"
+
+#: inc/customizer/general.php:80 inc/partials.php:158
+msgid "+123-456-7890"
+msgstr "+123-456-7890"
+
+#: inc/customizer/general.php:56 inc/partials.php:149
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+#: inc/tgmpa/recommended-plugins.php:66 build/dashboard.js:6201
+#: src/pages/UsefulPlugins/index.jsx:17
+msgid "Regenerate Thumbnails"
+msgstr "Regenerate Thumbnails"
+
+#: inc/tgmpa/recommended-plugins.php:56 build/dashboard.js:6197
+#: src/pages/UsefulPlugins/index.jsx:12
+msgid "BlossomThemes Email Newsletter"
+msgstr "BlossomThemes Email Newsletter"
+
+#: inc/tgmpa/recommended-plugins.php:51 build/dashboard.js:6193
+#: src/pages/UsefulPlugins/index.jsx:7
+msgid "BlossomThemes Toolkit"
+msgstr "BlossomThemes Toolkit"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài đặt plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr "Tất cả cài đặt đã hoàn tất."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr "%1$s cài đặt thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Đang bắt đầu cài đặt. Quá trình có thể mất thời gian với một số host, hãy kiên nhẫn."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài và kích hoạt plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr "Tất cả cài đặt và kích hoạt đều đã hoàn tất."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr "Hiện Chi tiết"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s được cài đặt và kích hoạt thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Đang bắt đầu cài đặt và kích hoạt. Quá trình có thể mất thời gian với một số host, hãy kiên nhẫn."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr "Cài đặt %1$s thất bại."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Có lỗi trong quá trình cài đặt %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cập nhật plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr "Kích hoạt plugin thất bại."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr "Không có sẵn plugin để kích hoạt thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Chưa chọn plugin nào để kích hoạt. Chưa tác vụ nào được thực hiện."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr "Hiện chưa có plugin nào cần cập nhật tại thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr "Không có plugin nào có sẵn để cài đặt vào thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Chưa chọn plugin nào để cập nhật. Chưa tác vụ nào được thực hiện."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Chưa chọn plugin nào để cài đặt. Chưa tác vụ nào được thực hiện."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr "Cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867 build/dashboard.js:6331
+#: src/pages/UsefulPlugins/index.jsx:156
+msgid "Install"
+msgstr "Cài đặt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr "Tin nhắn nâng cấp từ tác giả plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr "Trạng thái"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr "Phiên bản"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr "Loại"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr "Nguồn"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr "Không có plugin để cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr "Phiên bản hiện có:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr "Yêu cầu phiên bản thấp nhất:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr "Phiên bản đã cài đặt:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "không xác định"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Để kích hoạt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Cập nhật có sẵn <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Để cài đặt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tất cả <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr "Đề nghị cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr "Yêu cầu cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr "Yêu cầu cập nhật không có sẵn"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr "Hoạt động"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr "Đã cài đặt nhưng chưa kích hoạt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr "Đóng gói sẵn"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr "Nguồn bên ngoài"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr "Thư viện WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr "Đề nghị"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr "Bắt buộc"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "và"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Gói plugin từ xa bao gồm nhiều hơn một tệp, nhưng các tệp không được đóng gói trong một thư mục."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Vui lòng liên hệ với nhà cung cấp plugin và yêu cầu họ đóng gói plugin theo hướng dẫn của WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Gói plugin từ xa không chứa thư mục với slug phù hợp và việc đổi tên không hoạt động."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr "Cần cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin này cần được cập nhật để tương thích với giao diện của bạn."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "Vui lòng liên hệ quản trị viên để được hỗ trợ."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Có một hoặc nhiều hơn các plugin được yêu cầu hoặc đề xuất cài đặt, cập nhật và kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "Bỏ qua thông báo này"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả plugin đã được cài đặt và kích hoạt thành công. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin chưa kích hoạt. Giao diện này yêu cầu phiên bản cao hơn của %s. Vui lòng nâng cấp plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không cần làm gì khác. Plugin %1$s đã được kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin dưới đây đã được kích hoạt thành công:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr "Plugin đã được kích hoạt thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "Trở lại Trang quản trị"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr "Trở lại trang yêu cầu cài đặt plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài đặt plugin"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Các plugin đề xuất đang bị ngừng kích hoạt: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Các plugin cần thiết đang bị ngừng kích hoạt: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Có bản cập nhật cho: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Các plugin sau cần được cập nhật lên bản mới nhất để luôn tương thích với giao diện: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Giao diện này đề xuất cài đặt các plugin: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Giao diện này yêu cầu cài đặt các plugin: %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr "Đã xảy ra sự cố với plugin API."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr "Đang cập nhật plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr "Đang cài đặt plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr "Cài đặt plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr "Cài đặt các plugin bắt buộc"
+
+#: inc/toolkit-functions.php:31
+msgid "Centered"
+msgstr "Canh giữa"
+
+#: inc/template-functions.php:551
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"
+
+#: inc/template-functions.php:551
+msgid " Powered by %s"
+msgstr "Được cung cấp bởi %s"
+
+#: inc/template-functions.php:410
+msgid "Page"
+msgstr "Trang"
+
+#: inc/template-functions.php:409
+msgid "Next"
+msgstr "Trang sau"
+
+#: inc/template-functions.php:408
+msgid "Previous"
+msgstr "Trang trước"
+
+#: inc/template-functions.php:386
+msgid "Next Post"
+msgstr "Bài tiếp theo"
+
+#: inc/template-functions.php:367
+msgid "Previous Post"
+msgstr "Bài trước"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:307
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Chỉnh sửa <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:274
+msgid "Pages:"
+msgstr "Trang:"
+
+#: inc/template-functions.php:212
+msgid "%1$s Showing:  %2$s - %3$s of %4$s RESULTS %5$s"
+msgstr "%1$s Hiển thị:  %2$s - %3$s của %4$s kết quả %5$s"
+
+#: inc/template-functions.php:167
+msgid "Uh-Oh..."
+msgstr "Uh-Oh..."
+
+#: inc/template-functions.php:147
+msgid "SEARCH RESULTS FOR:"
+msgstr "Kết quả tìm kiếm cho:"
+
+#: inc/custom-functions.php:387
+msgid "TAGS"
+msgstr "TAGS"
+
+#: inc/custom-functions.php:380
+msgid "CATEGORY"
+msgstr "chuyên mục"
+
+#: inc/template-functions.php:134
+msgid "All Posts By: "
+msgstr "Các bài viết bởi:"
+
+#: inc/metabox.php:65
+msgid "Right Sidebar"
+msgstr "Sidebar phải"
+
+#: inc/metabox.php:60
+msgid "Left Sidebar"
+msgstr "Sidebar trái"
+
+#: inc/metabox.php:50
+msgid "Full Width"
+msgstr "Tràn viền"
+
+#: inc/metabox.php:45 inc/widgets.php:14
+msgid "Default Sidebar"
+msgstr "Sidebar mặc định"
+
+#: inc/metabox.php:22 inc/metabox.php:33
+msgid "Sidebar Layout"
+msgstr "Bố cục sidebar"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr "Thay đổi tập tin"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr "Thêm tập tin"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr "Không tập tin nào được chọn"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr "Thay đổi ảnh"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+msgid "Add Image"
+msgstr "Thêm Ảnh"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr "Loại bỏ"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr "Không có ảnh nào được chọn"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "Giá trị Hex"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "Giới hạn: %s hàng"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "Thêm mới %s"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "hàng"
+
+#: inc/custom-controls/typography/class-fonts.php:144
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/custom-controls/typography/class-fonts.php:140
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/custom-controls/typography/class-fonts.php:136
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:132
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:128
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:124
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/custom-controls/typography/class-fonts.php:120
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/custom-controls/typography/class-fonts.php:116
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/custom-controls/typography/class-fonts.php:112
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/custom-controls/typography/class-fonts.php:108
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:104
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/custom-controls/typography/class-fonts.php:100
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/custom-controls/typography/class-fonts.php:96
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/custom-controls/typography/class-typography-control.php:109
+msgid "Invalid Value"
+msgstr "Giá trị không hợp lệ"
+
+#: inc/custom-controls/typography/class-fonts.php:200
+#: inc/custom-controls/typography/class-typography-control.php:108
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:199
+#: inc/custom-controls/typography/class-typography-control.php:107
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/custom-controls/typography/class-fonts.php:198
+#: inc/custom-controls/typography/class-typography-control.php:106
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:197
+#: inc/custom-controls/typography/class-typography-control.php:105
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/custom-controls/typography/class-fonts.php:196
+#: inc/custom-controls/typography/class-typography-control.php:104
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:195
+#: inc/custom-controls/typography/class-typography-control.php:103
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/custom-controls/typography/class-fonts.php:194
+#: inc/custom-controls/typography/class-typography-control.php:102
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:193
+#: inc/custom-controls/typography/class-typography-control.php:101
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/custom-controls/typography/class-fonts.php:192
+#: inc/custom-controls/typography/class-typography-control.php:100
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:191
+#: inc/custom-controls/typography/class-typography-control.php:99
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/custom-controls/typography/class-fonts.php:190
+#: inc/custom-controls/typography/class-typography-control.php:98
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:189
+#: inc/custom-controls/typography/class-typography-control.php:97
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/custom-controls/typography/class-fonts.php:188
+#: inc/custom-controls/typography/class-typography-control.php:96
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:187
+#: inc/custom-controls/typography/class-typography-control.php:95
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/custom-controls/typography/class-fonts.php:186
+#: inc/custom-controls/typography/class-typography-control.php:94
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:185
+#: inc/custom-controls/typography/class-typography-control.php:93
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/custom-controls/typography/class-fonts.php:184
+#: inc/custom-controls/typography/class-typography-control.php:92
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/custom-controls/typography/class-fonts.php:183
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Spacing"
+msgstr "Khoảng cách"
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Height"
+msgstr "Chiều cao"
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Size"
+msgstr "Kích cỡ"
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Style"
+msgstr "Kiểu"
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Variant"
+msgstr "Biến thể"
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Select a font-family"
+msgstr "Chọn kiểu font"
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Color"
+msgstr "Màu sắc"
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Justify"
+msgstr "Căn đều"
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Center"
+msgstr "Căn giữa"
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+#: inc/toolkit-functions.php:19 inc/toolkit-functions.php:29
+msgid "Right"
+msgstr "Căn phải"
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+#: inc/toolkit-functions.php:18 inc/toolkit-functions.php:30
+msgid "Left"
+msgstr "Căn trái"
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Bottom"
+msgstr "Dưới"
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Top"
+msgstr "Trên"
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Lowercase"
+msgstr "Chữ thường"
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "Uppercase"
+msgstr "Chữ in hoa"
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "None"
+msgstr "Không có"
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Transform"
+msgstr "Biến đổi chữ"
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Text Align"
+msgstr "Căn lề văn bản"
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Letter Spacing"
+msgstr "Khoảng cách chữ"
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Font Style"
+msgstr "Kiểu chữ"
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Line Height"
+msgstr "Độ cao của dòng"
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgid "Font Family"
+msgstr "Phông chữ"
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Thai"
+msgstr "Tiếng Thái"
+
+#: template-parts/content-none.php:42
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ chúng tôi không thể tìm nội dung bạn đang mong muốn. Có lẽ công cụ tìm kiếm có thể giúp bạn."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác nhau."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: build/dashboard.js:5731 src/pages/FAQ/index.jsx:41
+msgid "If your customizer is not loading properly or you are having issues with the theme, it might be due to the plugin conflict."
+msgstr "Nếu trình tùy chỉnh của bạn không tải đúng cách hoặc bạn đang gặp vấn đề với giao diện, thì đó có thể là do xung đột plugin."
+
+#: build/dashboard.js:5730 src/pages/FAQ/index.jsx:38
+msgid "Why is my theme not working well?"
+msgstr "Tại sao giao diện của tôi không hoạt động tốt?"
+
+#: build/dashboard.js:5723 src/pages/FAQ/index.jsx:32
+msgid "How do I change the copyright text?"
+msgstr "Làm cách nào để thay đổi văn bản bản quyền?"
+
+#: build/dashboard.js:5721 src/pages/FAQ/index.jsx:27
+msgid "The Pro version is built with lots of flexibility in mind for future upgrades. Therefore, it is slightly different than the free theme but extremely flexible and easy-to-use."
+msgstr "Phiên bản Pro được xây dựng với rất nhiều tính linh hoạt để nâng cấp trong tương lai. Do đó, nó hơi khác so với chủ đề miễn phí nhưng cực kỳ linh hoạt và dễ sử dụng."
+
+#: build/dashboard.js:5721 src/pages/FAQ/index.jsx:26
+msgid "However, since the Pro version comes with added features and settings, you will need to set up the additional features in the customizer. This process is simple and only takes a few minutes."
+msgstr "Tuy nhiên, vì phiên bản Pro đi kèm với các tính năng và cài đặt bổ sung, bạn sẽ cần thiết lập các tính năng bổ sung trong tùy biến. Quá trình này rất đơn giản và chỉ mất vài phút."
+
+#: build/dashboard.js:5721 src/pages/FAQ/index.jsx:25
+msgid "When you upgrade to the Pro theme, your posts, pages, media, categories, and other data will remain intact-- all your data is saved."
+msgstr "Khi bạn nâng cấp lên chủ đề Pro, bài đăng, trang, phương tiện, danh mục và dữ liệu khác của bạn sẽ vẫn còn nguyên - tất cả dữ liệu của bạn đã được lưu."
+
+#: build/dashboard.js:5720 src/pages/FAQ/index.jsx:22
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr "Nâng cấp liên bản Pro - tôi sẽ mất các thay đổi?"
+
+#: build/dashboard.js:5718 src/pages/FAQ/index.jsx:19
+msgid "With Premium version, besides the extra features and frequent updates, you get premium support. If you run into any theme issues, you will get a lot quicker response compared to the free support."
+msgstr "Với phiên bản trả phí, bên cạnh các tính năng cao cấp và tần suất cập nhật nhiều, bạn sẽ nhận được hỗ trợ ưu tiên. Nếu bạn gặp vấn đề với giao diện, bạn sẽ nhận được trả lời nhanh hơn so với hỗ trợ miễn phí."
+
+#: build/dashboard.js:5717 src/pages/FAQ/index.jsx:18
+msgid "What are the advantages of upgrading to the Premium version?"
+msgstr "Ưu điểm khi nâng cấp lên bản trả phí là gì?"
+
+#: build/dashboard.js:5711 src/pages/FAQ/index.jsx:11
+msgid "Both Free and Pro version of the themes are well-built. However, the Pro version comes with many additional features."
+msgstr "Cả hai phiên bản Miễn phí và Pro của các chủ đề đều được xây dựng tốt. Tuy nhiên, phiên bản Pro đi kèm với nhiều tính năng bổ sung."
+
+#: build/dashboard.js:5710 src/pages/FAQ/index.jsx:8
+msgid "What is the difference between Free and Pro?"
+msgstr "Khác biệt giữa bản Miễn phí và Pro là gì?"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2876 build/dashboard.js:6337
+#: src/pages/UsefulPlugins/index.jsx:166
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: build/dashboard.js:5745 src/pages/FAQ/index.jsx:53
+msgid "Also, you might experience a slower response time during the weekend, so please bear with us."
+msgstr "Ngoài ra, bạn có thể trải nghiệm thời gian phản hồi chậm hơn vào cuối tuần, vì vậy hãy thông cảm với chúng tôi."
+
+#: build/dashboard.js:5742 src/pages/FAQ/index.jsx:51
+msgid "Before you send us a support ticket for any issues, please make sure you have updated the theme to the latest version. We might have fixed the bug in the theme update."
+msgstr "Trước khi bạn gửi cho chúng tôi một đề nghị hỗ trợ cho bất kỳ vấn đề nào, vui lòng đảm bảo rằng bạn đã cập nhật giao diện lên phiên bản mới nhất. Chúng tôi có thể đã sửa lỗi trong bản cập nhật giao diện."
+
+#: build/dashboard.js:5741 src/pages/FAQ/index.jsx:48
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr "Làm cách nào tôi có thể giải quyết vấn đề của mình nhanh chóng và nhận được hỗ trợ nhanh hơn?"
+
+#: inc/customizer/home.php:619 inc/partials.php:76 sections/team.php:7
+msgid "Meet Our Experienced Team Members"
+msgstr "Gặp các thành viên có kinh nghiệm của chúng tôi"
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Telugu"
+msgstr "Tiếng Telugu"
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Tamil"
+msgstr "Tiếng Tamil"
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Gujarati"
+msgstr "Tiếng Gujarati"
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Bengali"
+msgstr "Tiếng Bengali"
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Arabic"
+msgstr "Tiếng Ả rập"
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Hebrew"
+msgstr "Tiếng Do Thái"
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin Extended"
+msgstr "Tiếng Latin mở rộng"
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "OFF"
+msgstr "TẮT"
+
+#: inc/custom-controls/typography/class-typography-control.php:45
+msgid "ON"
+msgstr "BẬT"
+
+#: inc/woocommerce-functions.php:43
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Sidebar chỉ hiển thị trong các trang WooCommerce."
+
+#: inc/woocommerce-functions.php:41
+msgid "Shop Sidebar"
+msgstr "Sidebar trang Cửa hàng"
+
+#: inc/custom-functions.php:472
+msgctxt "submit button"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: inc/custom-functions.php:472
+msgid "Search for:"
+msgstr "Tìm kiếm cho:"
+
+#: inc/custom-functions.php:470
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: inc/custom-functions.php:470
+msgctxt "placeholder"
+msgid "Try searching for what you were looking for..."
+msgstr "Đang tìm kiếm những gì bạn mong muốn..."
+
+#: inc/extras.php:620 inc/extras.php:622 inc/extras.php:624 inc/extras.php:629
+#: inc/extras.php:631 inc/extras.php:636 inc/partials.php:219
+msgid "Y"
+msgstr "Y"
+
+#: inc/custom-functions.php:335
+msgid "Leave A Comment"
+msgstr "Viết một bình luận"
+
+#: inc/custom-functions.php:334
+msgid "Comment"
+msgstr "Bình luận"
+
+#: inc/custom-functions.php:321
+msgid "Website"
+msgstr "Trang web"
+
+#: inc/custom-functions.php:319
+msgid "Email*"
+msgstr "Email*"
+
+#: inc/custom-functions.php:317
+msgid "Name*"
+msgstr "Tên*"
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Latin"
+msgstr "Tiếng Latin"
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Khmer"
+msgstr "Tiếng Khmer"
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek Extended"
+msgstr "Tiếng Hy Lạp mở rộng"
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Greek"
+msgstr "Tiếng Hy Lạp"
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Devanagari"
+msgstr "Tiếng Devanagari"
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic Extended"
+msgstr "Tiếng Cyrillic mở rộng"
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "Cyrillic"
+msgstr "Tiếng Cyrillic"
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+msgid "All"
+msgstr "Tất cả"
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+#: inc/customizer/appearance.php:89
+msgid "Font Size"
+msgstr "Cỡ chữ"
+
+#: inc/customizer/general.php:441 inc/partials.php:31
+#: inc/template-functions.php:293 inc/toolkit-functions.php:85
+msgid "Read More"
+msgstr "Đọc thêm"
+
+#: inc/customizer/home.php:707 inc/partials.php:94 sections/blog.php:9
+msgid "Read Our Recent Articles"
+msgstr "Đọc bài viết gần đây của chúng tôi"
+
+#. translators: 1: comment count number.
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Bình luận"
+
+#: 404.php:15
+msgid "Take me to the home page"
+msgstr "Chuyển đến trang chủ"
+
+#: 404.php:14
+msgid "404"
+msgstr "404"
+
+#: 404.php:13
+msgid "The page you are looking for may have been moved, deleted, or possibly never existed."
+msgstr "Trang bạn đang tìm đã bị di chuyển, xóa hoặc không tồn tại."
+
+#: inc/customizer/home.php:643 inc/partials.php:85 sections/team.php:8
+msgid "Some of our team members have 10+ years of experience. You can introduce your team members to give a more human feeling to the company."
+msgstr "Một số thành viên trong nhóm của chúng tôi có hơn 10 năm kinh nghiệm. Bạn có thể giới thiệu các thành viên trong nhóm của mình để mang lại cảm giác nhân văn hơn cho công ty."
+
+#: inc/customizer/home.php:531 inc/partials.php:131 sections/testimonial.php:8
+msgid "Here's What Our Customers Think"
+msgstr "Đây là những gì khách hàng của chúng tôi nghĩ"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Đã tắt bình luận."
+
+#: inc/custom-functions.php:45 inc/custom-functions.php:134
+msgid "Primary"
+msgstr "Chính"
+
+#: inc/customizer/general.php:354
+msgid "Breadcrumb Home Text"
+msgstr "Văn bản Breadcrumb trang chủ"
+
+#: inc/customizer/info.php:11
+msgid "Demo & Documentation"
+msgstr "Demo và hướng dẫn"
+
+#: inc/template-functions.php:362
+msgid "Post Navigation"
+msgstr "Điều hướng bài viết"
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Weight"
+msgstr "Độ dày phông chữ"
+
+#: inc/widgets.php:12
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: inc/customizer/general.php:314
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr "Bật để hiển thị ngày cập nhật mới nhất trên danh sách cũng như trong một bài viết."
+
+#: inc/metabox.php:75
+msgid "Choose Sidebar Template"
+msgstr "Chọn mẫu Sidebar"
+
+#: inc/metabox.php:55
+msgid "Full Width Centered"
+msgstr "Full Width Centered"
+
+#: inc/customizer/home.php:731 inc/partials.php:103 sections/blog.php:10
+msgid "Show your customers that you know what you are doing by writing helpful articles related to your business. You can display your recent blog posts here. To modify this section, go to Appearance > Customize > Front Page Settings > Blog Section."
+msgstr "Cho khách hàng của bạn biết những gì bạn đang làm bằng cách viết các bài viết hữu ích liên quan đến doanh nghiệp của bạn. Bạn có thể hiển thị bài viết blog gần đây của bạn ở đây. Để sửa đổi phần này, hãy đi đến Giao diện > Tùy chỉnh > Cài đặt trang chủ > Phần Blog."
+
+#: inc/customizer/home.php:87 inc/partials.php:49 sections/banner.php:10
+msgid "Come and discover your oasis. It has never been easier to take a break from stress and the harmful factors that surround you every day!"
+msgstr "Hãy đến và khám phá ốc đảo của bạn. Chưa bao giờ dễ dàng hơn để loại bỏ căng thẳng và các yếu tố có hại xung quanh bạn mỗi ngày!"
+
+#: inc/customizer/home.php:165
+msgid "Banner Button Two Label"
+msgstr "Nhãn nút 2 ở ảnh bìa"
+
+#: inc/customizer/home.php:189
+msgid "Banner Button Two Link"
+msgstr "Liên kết nút 2 ở ảnh bìa"
+
+#: inc/customizer/home.php:145
+msgid "Banner Button One Link"
+msgstr "Liên kết nút 1 ở ảnh bìa"
+
+#: inc/customizer/home.php:121
+msgid "Banner Button One Label"
+msgstr "Nhãn nút 1 ở ảnh bìa"
+
+#: inc/customizer/home.php:51
+msgid "Static/Video CTA Banner"
+msgstr "Ảnh bìa CTA tĩnh/video"
+
+#: inc/customizer/home.php:50
+msgid "Disable Banner Section"
+msgstr "Tắt phần ảnh bìa"
+
+#: inc/customizer/home.php:47
+msgid "Choose banner as static image/video or as a slider."
+msgstr "Chọn ảnh bìa dưới dạng hình ảnh/video tĩnh hoặc slider."
+
+#: inc/customizer/home.php:46
+msgid "Banner Options"
+msgstr "Tuỳ chọn ảnh bìa"
+
+#: inc/customizer/home.php:22
+msgid "Banner Section"
+msgstr "Phần ảnh bìa"
+
+#: inc/custom-functions.php:99
+msgctxt "header image description"
+msgid "Default Banner"
+msgstr "Ảnh bìa mặc định"
+
+#: inc/customizer/home.php:555 inc/partials.php:140 sections/testimonial.php:9
+msgid "Our customers love us. We make sure that we make every customer happy. Showcase the feedback from your old customers to build trust with new customers using testimonials."
+msgstr "Khách hàng yêu quý chúng tôi. Chúng tôi đảm bảo rằng chúng tôi làm cho mọi khách hàng hài lòng. Hiển thị phản hồi từ khách hàng cũ của bạn để tạo niềm tin với khách hàng mới bằng lời chứng thực."
+
+#: inc/customizer/home.php:62 inc/partials.php:40 sections/banner.php:9
+msgid "Relaxing Is Never Easy On Your Own"
+msgstr "Thư giãn chưa bao giờ là dễ dàng với chính bạn"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"

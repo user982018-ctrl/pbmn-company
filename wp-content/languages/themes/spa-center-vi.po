@@ -1,0 +1,187 @@
+# Translation of Themes - Spa Center in Vietnamese
+# This file is distributed under the same license as the Themes - Spa Center package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-10 07:11:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Spa Center\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "The Spa Center is a stunning WordPress theme suitable for building websites for spas and salons. Using this theme, you can create a fully functional and professional website for your businesses like spas, beauty salons, hair salons, wellness centres, massage parlours, yoga studios, meditation classes, nail studios and natural health care or any beauty businesses. This theme is simple to set up and it comes with plenty of features to make your site stand out. The theme includes several sections such as Banner Section with CTA, About, Services, Testimonials, Team, Blog, several Call-to-Actions, and Instagram section to sell your services and introduce your business. This speed-optimized theme is easy to use, mobile-friendly, and SEO-friendly. It is also WooCommerce compatible, translation-ready, RTL script-ready and Schema friendly. Check theme details at https://blossomthemes.com/wordpress-themes/spa-center/, demo at https://blossomthemes.com/theme-demo/?theme=beauty-salon-lite, documentation at https://docs.blossomthemes.com/spa-center/, and get support at https://blossomthemes.com/support-ticket/"
+msgstr "The Spa Center là một chủ đề WordPress tuyệt đẹp phù hợp để xây dựng trang web cho các spa và thẩm mỹ viện. Sử dụng chủ đề này, bạn có thể tạo một trang web đầy đủ chức năng và chuyên nghiệp cho các doanh nghiệp của mình như spa, thẩm mỹ viện, tiệm làm tóc, trung tâm chăm sóc sức khỏe, tiệm mát-xa, phòng tập yoga, lớp học thiền, tiệm làm móng và chăm sóc sức khỏe tự nhiên hoặc bất kỳ doanh nghiệp làm đẹp nào. Chủ đề này rất đơn giản để thiết lập và nó đi kèm với nhiều tính năng để làm cho trang web của bạn nổi bật. Chủ đề bao gồm một số phần như Phần biểu ngữ với CTA, Giới thiệu, Dịch vụ, Lời chứng thực, Nhóm, Blog, một số Lời kêu gọi hành động và phần Instagram để bán dịch vụ và giới thiệu doanh nghiệp của bạn. Chủ đề được tối ưu hóa tốc độ này dễ sử dụng, thân thiện với thiết bị di động và thân thiện với SEO. Nó cũng tương thích với WooCommerce, sẵn sàng dịch, sẵn sàng cho tập lệnh RTL và thân thiện với lược đồ. Kiểm tra chi tiết chủ đề tại https://blossomthemes.com/wordpress-themes/spa-center/, demo tại https://blossomthemes.com/theme-demo/?theme=beauty-salon-lite, tài liệu tại https://docs.blossomthemes.com/spa-center/ và nhận hỗ trợ tại https://blossomthemes.com/support-ticket/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Spa Center"
+msgstr "Spa Center"
+
+#: functions.php:573
+msgid "go to top"
+msgstr "đầu trang"
+
+#: functions.php:566
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"
+
+#: functions.php:566
+msgid " Powered by %s"
+msgstr " Được cung cấp bởi %s"
+
+#: functions.php:564
+msgid " Blossom Themes"
+msgstr " Blossom Themes"
+
+#: functions.php:563
+msgid "Spa Center | Developed By "
+msgstr "Spa Center | Phát triển bởi "
+
+#: functions.php:446
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:445
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "bật"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:444
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:400 functions.php:416
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng"
+
+#: functions.php:329
+msgid "Enable to show Shopping cart in the header."
+msgstr "Bật để hiển thị Giỏ hàng trong đầu trang."
+
+#: functions.php:328
+msgid "Shopping Cart"
+msgstr "Giỏ hàng"
+
+#: functions.php:304
+msgid "This is the layout for header."
+msgstr "Đây là bố cục cho header."
+
+#: functions.php:283 functions.php:303
+msgid "Header Layout"
+msgstr "Bố cục header"
+
+#: functions.php:264
+msgid "Flush Local Fonts Cache"
+msgstr "Xóa bộ đệm phông chữ trên máy chủ"
+
+#: functions.php:250
+msgid "Flush Local Font Files"
+msgstr "Xóa bộ nhớ cache các tệp phông chữ địa phương"
+
+#: functions.php:248
+msgid "Click the button to reset the local fonts cache"
+msgstr "Nhấn nút để cài đặt lại bộ đệm phông chữ cục bộ"
+
+#: functions.php:240
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr "Tiền tải các phông chữ Google sẽ làm tăng tốc độ tải trang web của bạn."
+
+#: functions.php:239
+msgid "Preload Local Fonts"
+msgstr "Tải trước phông chữ trên máy chủ"
+
+#: functions.php:220
+msgid "Enable to load google fonts from your own server instead from google's CDN. This solves privacy concerns with Google's CDN and their sometimes less-than-transparent policies."
+msgstr "Cho phép tải các phông chữ Google từ máy chủ riêng của bạn thay vì từ CDN của Google. Điều này giúp giải quyết các vấn đề liên quan đến quyền riêng tư với CDN của Google và chính sách của họ đôi khi không rõ ràng."
+
+#: functions.php:219
+msgid "Load Google Fonts Locally"
+msgstr "Tải phông chữ Google về máy chủ của bạn"
+
+#: functions.php:195
+msgid "Change the font size of your site."
+msgstr "Thay đổi cỡ chữ của trang web của bạn."
+
+#: functions.php:194
+msgid "Font Size"
+msgstr "Cỡ chữ"
+
+#: functions.php:172
+msgid "Secondary font of the site."
+msgstr "Phông chữ thứ hai của trang web."
+
+#: functions.php:171
+msgid "Secondary Font"
+msgstr "Phông chữ thứ hai"
+
+#: functions.php:150
+msgid "Primary font of the site."
+msgstr "Phông chữ chính của trang web."
+
+#: functions.php:149
+msgid "Primary Font"
+msgstr "Phông chữ chính"
+
+#: functions.php:129
+msgid "Typography Settings"
+msgstr "Cài đặt font chữ"
+
+#: functions.php:121
+msgid "Customize Color, Typography & Background Image"
+msgstr "Tùy chỉnh Màu sắc, Kiểu chữ & Hình nền"
+
+#: functions.php:120
+msgid "Appearance Settings"
+msgstr "Cài đặt giao diện"
+
+#: functions.php:103
+msgid "Change the font size of your site title."
+msgstr "Thay đổi kích thước phông chữ của tiêu đề trang web của bạn."
+
+#: functions.php:102
+msgid "Site Title Font Size"
+msgstr "Kích thước phông chữ tiêu đề trang web"
+
+#: functions.php:80
+msgid "Site title and tagline font."
+msgstr "Phông chữ tiêu đề trang và tagline."
+
+#: functions.php:79
+msgid "Site Title Font"
+msgstr "Phông chữ tiêu đề trang web"
+
+#: functions.php:50
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Liên kết tài liệu: %1$sNhấp vào đây.%2$s"
+
+#: functions.php:48
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Liên kết demo: %1$sNhấp vào đây.%2$s"
+
+#: functions.php:35
+msgid "Demo & Documentation"
+msgstr "Demo và hướng dẫn"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/wordpress-themes/spa-center/"
+msgstr "https://blossomthemes.com/wordpress-themes/spa-center/"

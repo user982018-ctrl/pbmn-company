@@ -1,0 +1,2816 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]> <html lang="vi" class="ie9 loading-site no-js"> <![endif]-->
+<!--[if IE 8 ]> <html lang="vi" class="ie8 loading-site no-js"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="vi" class="loading-site no-js"> <!--<![endif]-->
+
+
+<head>
+	<meta charset="UTF-8" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<!-- This site is optimized with the Yoast SEO plugin v15.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>CÔNG TY TNHH TMDV XNK PHÂN BÓN MIỀN NAM</title>
+	<meta name="description"
+		content="Nhà máy phân bón miền nam chuyên sản xuất kinh doanh phân bón các loại, cung cấp cho bà con nông dân nhiều chủng loại phong phú, chất lượng nhất" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://phanbonmiennam.net/" />
+	<meta property="og:locale" content="vi_VN" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="CÔNG TY XNK PHÂN BÓN MIỀN NAM" />
+	<meta property="og:description"
+		content="Nhà máy phân bón MIỀN NAM chuyên sản xuất kinh doanh phân bón các loại, cung cấp cho bà con nông dân nhiều chủng loại phong phú, chất lượng nhất" />
+	<meta property="og:url" content="https://phanbonmiennam.net/" />
+	<meta property="og:site_name" content="CÔNG TY XNK PHÂN BÓN MIỀN NAM" />
+	<meta property="article:modified_time" content="2024-03-08T04:28:43+00:00" />
+	<meta property="og:image" content="test/img/Logo.png" />
+	<meta property="og:image:width" content="700" />
+	<meta property="og:image:height" content="550" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time">
+	<meta name="twitter:data1" content="4 phút">
+
+	<meta name="p:domain_verify" content="16930ecedb83dbb936dd2d4d5a6208a8" />
+	<!-- / Yoast SEO plugin. -->
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+	<link rel='dns-prefetch' href='//s.w.org' />
+
+	<style type="text/css">
+		 .owl-carousel .item {
+            text-align: center;
+            /* background: #4CAF50; */
+            /* padding: 80px 0; */
+            margin: 10px;
+            color: #fff;
+            font-size: 20px;
+            border-radius: 10px;
+        }
+		.price-wrapper {
+			color:red;
+		}
+		img.wp-smiley,
+		img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 .07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+	</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='test/css/style-min.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='wc-block-vendors-style-css' href='test/css/vendors-style.css' type='text/css'
+		media='all' />
+	<link rel='stylesheet' id='wc-block-style-css' href='test/css/style.css' type='text/css' media='all' />
+	<style id='woocommerce-inline-inline-css' type='text/css'>
+		.woocommerce form .form-row .required {
+			visibility: visible;
+		}
+	</style>
+	<link rel='stylesheet' id='flatsome-icons-css' href='test/css/fl-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='flatsome-main-css' href='test/css/flatsome.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='flatsome-shop-css' href='test/css/flatsome-shop.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='flatsome-googlefonts-css'
+		href='//fonts.googleapis.com/css?family=Roboto%3Aregular%2C700%2Cregular%2C700%2Cregular&#038;display=swap&#038;ver=3.9'
+		type='text/css' media='all' />
+	<script type='text/javascript' src='test/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+	<script type='text/javascript' src='test/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+		integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+		crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+	<link rel='shortlink' href='https://phanbonmiennam.net/' />
+
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-E81NPJ4LTP');
+	</script>
+
+	<style>
+		.bg {
+			opacity: 0;
+			transition: opacity 1s;
+			-webkit-transition: opacity 1s;
+		}
+
+		.bg-loaded {
+			opacity: 1;
+		}
+	</style>
+	<!--[if IE]><link rel="stylesheet" type="text/css" href="https://halan.net/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="https://halan.net/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]-->
+	<meta name="google-site-verification" content="pe-0JKosA5V_XctVSuOhkumVBplDnhNclJAh7Kuwxc8" /> <noscript>
+		<style>
+			.woocommerce-product-gallery {
+				opacity: 1 !important;
+			}
+		</style>
+	</noscript>
+	<link rel="icon" href="test/img/Logo.png" sizes="32x32" />
+	<link rel="icon" href="test/img/Logo.png" sizes="192x192" />
+	<link rel="apple-touch-icon" href="test/img/Logo.png" />
+	<meta name="msapplication-TileImage" content="test/img/Logo.png" />
+	<style id="custom-css" type="text/css">
+		:root {
+			--primary-color: #0a0a0a;
+		}
+
+		.header-main {
+			height: 40px
+		}
+
+		#logo img {
+			max-height: 40px
+		}
+
+		#logo {
+			width: 190px;
+		}
+
+		#logo img {
+			padding: 5px 0;
+		}
+
+		.header-bottom {
+			min-height: 10px
+		}
+
+		.header-top {
+			min-height: 30px
+		}
+
+		.transparent .header-main {
+			height: 90px
+		}
+
+		.transparent #logo img {
+			max-height: 90px
+		}
+
+		.has-transparent+.page-title:first-of-type,
+		.has-transparent+#main>.page-title,
+		.has-transparent+#main>div>.page-title,
+		.has-transparent+#main .page-header-wrapper:first-of-type .page-title {
+			padding-top: 140px;
+		}
+
+		.header.show-on-scroll,
+		.stuck .header-main {
+			height: 40px !important
+		}
+
+		.stuck #logo img {
+			max-height: 40px !important
+		}
+
+		.search-form {
+			width: 35%;
+		}
+
+		.header-bg-color,
+		.header-wrapper {
+			background-color: rgba(252, 252, 252, 0)
+		}
+
+		.header-bottom {
+			background-color: #ffffff
+		}
+
+		.header-main .nav>li>a {
+			line-height: 16px
+		}
+
+		.stuck .header-main .nav>li>a {
+			line-height: 50px
+		}
+
+		.header-bottom-nav>li>a {
+			line-height: 19px
+		}
+
+		@media (max-width: 549px) {
+			.header-main {
+				height: 70px
+			}
+
+			#logo img {
+				max-height: 70px
+			}
+		}
+
+		.nav-dropdown {
+			font-size: 90%
+		}
+
+		/* Color */
+		.accordion-title.active,
+		.has-icon-bg .icon .icon-inner,
+		.logo a,
+		.primary.is-underline,
+		.primary.is-link,
+		.badge-outline .badge-inner,
+		.nav-outline>li.active>a,
+		.nav-outline>li.active>a,
+		.cart-icon strong,
+		[data-color='primary'],
+		.is-outline.primary {
+			color: #0a0a0a;
+		}
+
+		/* Color !important */
+		[data-text-color="primary"] {
+			color: #0a0a0a !important;
+		}
+
+		/* Background Color */
+		[data-text-bg="primary"] {
+			background-color: #0a0a0a;
+		}
+
+		/* Background */
+		.scroll-to-bullets a,
+		.featured-title,
+		.label-new.menu-item>a:after,
+		.nav-pagination>li>.current,
+		.nav-pagination>li>span:hover,
+		.nav-pagination>li>a:hover,
+		.has-hover:hover .badge-outline .badge-inner,
+		button[type="submit"],
+		.button.wc-forward:not(.checkout):not(.checkout-button),
+		.button.submit-button,
+		.button.primary:not(.is-outline),
+		.featured-table .title,
+		.is-outline:hover,
+		.has-icon:hover .icon-label,
+		.nav-dropdown-bold .nav-column li>a:hover,
+		.nav-dropdown.nav-dropdown-bold>li>a:hover,
+		.nav-dropdown-bold.dark .nav-column li>a:hover,
+		.nav-dropdown.nav-dropdown-bold.dark>li>a:hover,
+		.is-outline:hover,
+		.tagcloud a:hover,
+		.grid-tools a,
+		input[type='submit']:not(.is-form),
+		.box-badge:hover .box-text,
+		input.button.alt,
+		.nav-box>li>a:hover,
+		.nav-box>li.active>a,
+		.nav-pills>li.active>a,
+		.current-dropdown .cart-icon strong,
+		.cart-icon:hover strong,
+		.nav-line-bottom>li>a:before,
+		.nav-line-grow>li>a:before,
+		.nav-line>li>a:before,
+		.banner,
+		.header-top,
+		.slider-nav-circle .flickity-prev-next-button:hover svg,
+		.slider-nav-circle .flickity-prev-next-button:hover .arrow,
+		.primary.is-outline:hover,
+		.button.primary:not(.is-outline),
+		input[type='submit'].primary,
+		input[type='submit'].primary,
+		input[type='reset'].button,
+		input[type='button'].primary,
+		.badge-inner {
+			background-color: #0a0a0a;
+		}
+
+		/* Border */
+		.nav-vertical.nav-tabs>li.active>a,
+		.scroll-to-bullets a.active,
+		.nav-pagination>li>.current,
+		.nav-pagination>li>span:hover,
+		.nav-pagination>li>a:hover,
+		.has-hover:hover .badge-outline .badge-inner,
+		.accordion-title.active,
+		.featured-table,
+		.is-outline:hover,
+		.tagcloud a:hover,
+		blockquote,
+		.has-border,
+		.cart-icon strong:after,
+		.cart-icon strong,
+		.blockUI:before,
+		.processing:before,
+		.loading-spin,
+		.slider-nav-circle .flickity-prev-next-button:hover svg,
+		.slider-nav-circle .flickity-prev-next-button:hover .arrow,
+		.primary.is-outline:hover {
+			border-color: #0a0a0a
+		}
+
+		.nav-tabs>li.active>a {
+			border-top-color: #0a0a0a
+		}
+
+		.widget_shopping_cart_content .blockUI.blockOverlay:before {
+			border-left-color: #0a0a0a
+		}
+
+		.woocommerce-checkout-review-order .blockUI.blockOverlay:before {
+			border-left-color: #0a0a0a
+		}
+
+		/* Fill */
+		.slider .flickity-prev-next-button:hover svg,
+		.slider .flickity-prev-next-button:hover .arrow {
+			fill: #0a0a0a;
+		}
+
+		/* Background Color */
+		[data-icon-label]:after,
+		.secondary.is-underline:hover,
+		.secondary.is-outline:hover,
+		.icon-label,
+		.button.secondary:not(.is-outline),
+		.button.alt:not(.is-outline),
+		.badge-inner.on-sale,
+		.button.checkout,
+		.single_add_to_cart_button,
+		.current .breadcrumb-step {
+			background-color: #63a340;
+		}
+
+		[data-text-bg="secondary"] {
+			background-color: #63a340;
+		}
+
+		/* Color */
+		.secondary.is-underline,
+		.secondary.is-link,
+		.secondary.is-outline,
+		.stars a.active,
+		.star-rating:before,
+		.woocommerce-page .star-rating:before,
+		.star-rating span:before,
+		.color-secondary {
+			color: #63a340
+		}
+
+		/* Color !important */
+		[data-text-color="secondary"] {
+			color: #63a340 !important;
+		}
+
+		/* Border */
+		.secondary.is-outline:hover {
+			border-color: #63a340
+		}
+
+		body {
+			font-size: 100%;
+		}
+
+		@media screen and (max-width: 549px) {
+			body {
+				font-size: 110%;
+			}
+		}
+
+		body {
+			font-family: "Roboto", sans-serif
+		}
+
+		body {
+			font-weight: 0
+		}
+
+		body {
+			color: #0a0a0a
+		}
+
+		.nav>li>a {
+			font-family: "Roboto", sans-serif;
+		}
+
+		.mobile-sidebar-levels-2 .nav>li>ul>li>a {
+			font-family: "Roboto", sans-serif;
+		}
+
+		.nav>li>a {
+			font-weight: 700;
+		}
+
+		.mobile-sidebar-levels-2 .nav>li>ul>li>a {
+			font-weight: 700;
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		.heading-font,
+		.off-canvas-center .nav-sidebar.nav-vertical>li>a {
+			font-family: "Roboto", sans-serif;
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		.heading-font,
+		.banner h1,
+		.banner h2 {
+			font-weight: 700;
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		.heading-font {
+			color: #0a0a0a;
+		}
+
+		.breadcrumbs {
+			text-transform: none;
+		}
+
+		button,
+		.button {
+			text-transform: none;
+		}
+
+		.nav>li>a,
+		.links>li>a {
+			text-transform: none;
+		}
+
+		.section-title span {
+			text-transform: none;
+		}
+
+		h3.widget-title,
+		span.widget-title {
+			text-transform: none;
+		}
+
+		.alt-font {
+			font-family: "Roboto", sans-serif;
+		}
+
+		.alt-font {
+			font-weight: 0 !important;
+		}
+
+		.header:not(.transparent) .header-nav-main.nav>li>a {
+			color: #0a0a0a;
+		}
+
+		.header:not(.transparent) .header-nav-main.nav>li>a:hover,
+		.header:not(.transparent) .header-nav-main.nav>li.active>a,
+		.header:not(.transparent) .header-nav-main.nav>li.current>a,
+		.header:not(.transparent) .header-nav-main.nav>li>a.active,
+		.header:not(.transparent) .header-nav-main.nav>li>a.current {
+			color: #f47c4c;
+		}
+
+		.header-nav-main.nav-line-bottom>li>a:before,
+		.header-nav-main.nav-line-grow>li>a:before,
+		.header-nav-main.nav-line>li>a:before,
+		.header-nav-main.nav-box>li>a:hover,
+		.header-nav-main.nav-box>li.active>a,
+		.header-nav-main.nav-pills>li>a:hover,
+		.header-nav-main.nav-pills>li.active>a {
+			color: #FFF !important;
+			background-color: #f47c4c;
+		}
+
+		.header:not(.transparent) .header-bottom-nav.nav>li>a {
+			color: #111111;
+		}
+
+		.header:not(.transparent) .header-bottom-nav.nav>li>a:hover,
+		.header:not(.transparent) .header-bottom-nav.nav>li.active>a,
+		.header:not(.transparent) .header-bottom-nav.nav>li.current>a,
+		.header:not(.transparent) .header-bottom-nav.nav>li>a.active,
+		.header:not(.transparent) .header-bottom-nav.nav>li>a.current {
+			color: #f47c4c;
+		}
+
+		.header-bottom-nav.nav-line-bottom>li>a:before,
+		.header-bottom-nav.nav-line-grow>li>a:before,
+		.header-bottom-nav.nav-line>li>a:before,
+		.header-bottom-nav.nav-box>li>a:hover,
+		.header-bottom-nav.nav-box>li.active>a,
+		.header-bottom-nav.nav-pills>li>a:hover,
+		.header-bottom-nav.nav-pills>li.active>a {
+			color: #FFF !important;
+			background-color: #f47c4c;
+		}
+
+		a {
+			color: #0a0a0a;
+		}
+
+		a:hover {
+			color: #63a340;
+		}
+
+		.tagcloud a:hover {
+			border-color: #63a340;
+			background-color: #63a340;
+		}
+
+		.shop-page-title.featured-title .title-overlay {
+			background-color: #f6f7f7;
+		}
+
+		@media screen and (min-width: 550px) {
+			.products .box-vertical .box-image {
+				min-width: 300px !important;
+				width: 300px !important;
+			}
+		}
+
+		.absolute-footer,
+		html {
+			background-color: #ffffff
+		}
+
+		.page-title-small+main .product-container>.row {
+			padding-top: 0;
+		}
+
+		/* Custom CSS */
+		.product-thumbnails img {
+			height: 60px;
+			width: auto;
+			opacity: 1;
+		}
+
+		.product-thumbnails a {
+			text-align: center;
+			transform: translateY(1) !important;
+		}
+
+		@media screen and (min-width: 850px) {
+			.devvn-vertical-thumbnails .product-thumbnails.thumbnails {
+				width: 480px;
+				-webkit-transform: rotate(90deg) translate(0, -100%);
+				transform: rotate(90deg) translate(0, -100%);
+				-webkit-transform-origin: left top;
+				transform-origin: left top;
+			}
+
+			.devvn-vertical-thumbnails .product-thumbnails.thumbnails .col {
+				-webkit-transform: rotate(-90deg);
+				transform: rotate(-90deg);
+				padding: 0;
+				max-width: 100%;
+				-ms-flex-preferred-size: 100%;
+				flex-basis: 100%;
+				width: 80px;
+				height: 80px;
+			}
+		}
+
+		.label-new.menu-item>a:after {
+			content: "New";
+		}
+
+		.label-hot.menu-item>a:after {
+			content: "Hot";
+		}
+
+		.label-sale.menu-item>a:after {
+			content: "Sale";
+		}
+
+		.label-popular.menu-item>a:after {
+			content: "Popular";
+		}
+	</style>
+	<style type="text/css" id="wp-custom-css">
+		.header-wrapper {
+			background: #f47c4c;
+		}
+
+		.ci_stripe {
+			width: 100%;
+			height: 18px;
+			margin-top: 0;
+			position: relative;
+			background: url(https://halan.net/wp-content/uploads/2020/05/repeat_left.png) repeat-x;
+		}
+
+		.ci_stripe_righthalf {
+			width: 50%;
+			height: 100%;
+			position: absolute;
+			background: url(https://halan.net/wp-content/uploads/2020/05/ci_right.jpg);
+			right: 0px;
+			z-index: 0;
+		}
+
+		.ci_stripe_in {
+			width: 100%;
+			height: 100%;
+			display: block;
+			position: relative;
+			z-index: 1;
+			background: url(https://halan.net/wp-content/uploads/2020/05/ci_bar.png) no-repeat;
+		}
+
+		.wwrap {
+			max-width: 1170px;
+			margin: 0 auto;
+		}
+
+		.header-bottom:after {
+			content: " ";
+			display: block;
+			height: 10px;
+			width: 100%;
+			position: absolute;
+			bottom: -5px;
+			z-index: 2;
+			background: url(https://halan.net/wp-content/uploads/2020/05/shadow_1.png) repeat-x scroll 0 bottom;
+		}
+
+		.ngonngu img {
+			border: 1px solid white;
+			border-radius: 3px;
+		}
+
+		.pull-right a {
+			color: white;
+		}
+
+		.pull-right a:hover {
+			color: #faaf18;
+		}
+
+		.pulll-right {
+			float: right;
+		}
+
+		.pulll-right img {
+			height: 22px;
+			margin-right: 5px;
+		}
+
+		.pulll-right a {
+			font-size: 1.2em;
+			color: white;
+		}
+
+		.pulll-right .free {
+			font-size: 11px;
+			padding-left: 3px;
+		}
+
+		.top-divider {
+			margin-bottom: 0;
+			border-top: 0px;
+		}
+
+		#main {
+			background-color: #f6f7f7;
+		}
+
+		#main .shop-container .product-container {
+			background-color: white;
+		}
+
+		h1.product_title {
+			color: green;
+		}
+
+		.title-product-home .entry-title:before {
+			content: "MẪU";
+			position: absolute;
+			top: 20px;
+			left: 0;
+			right: 0;
+			text-align: center;
+			font-size: 18px;
+			font-weight: normal;
+		}
+
+		.banner-bar .col {
+			padding: 0;
+		}
+
+		.banner-bar .banner-bar-content {
+			display: flex;
+			padding: 0 15px;
+			-webkit-box-align: center;
+			align-items: center;
+			height: 75px;
+		}
+
+		.banner-bar .banner-bar-content .icon {
+			width: 50px;
+			margin-right: 10px;
+			-webkit-box-flex: 0;
+			flex: 0 0 40px;
+		}
+
+		.banner-bar .banner-bar-content .content {
+			font-size: 15px;
+			color: #fff;
+			line-height: 18px;
+			letter-spacing: .75px;
+		}
+
+		.bar-footer .hotline-item {
+			display: block;
+			font-size: 16px;
+			margin-bottom: 20px;
+		}
+
+		.bar-footer .hotline-item .green a {
+			color: white;
+			font-size: 30px;
+			letter-spacing: -2px;
+		}
+
+		.bar-footer .hotline-item .green .free {
+			font-size: 14px;
+		}
+
+		.bar-footer .hotline-item .all-week {
+			font-size: 13px;
+			font-weight: 100;
+			display: block;
+		}
+
+		.product-container .product-images {
+			border: 1px solid #d3d3d3;
+		}
+
+		.bar-footer {
+			padding-bottom: 0px !important;
+			color: white;
+		}
+
+		.bar-footer .col {
+			padding: 0 15px 10px;
+		}
+
+		.green {
+			color: #fff;
+		}
+
+		.bar-footer .hotline-item .green a span.icon {
+			margin-right: 5px;
+			float: left;
+			margin-top: 15px;
+			background: #fff;
+			width: 20px;
+			height: 20px;
+			line-height: 22px;
+			text-align: center;
+			font-size: 12px;
+			color: #f47c4c;
+			border-radius: 50%;
+		}
+
+		.icon-mxh img {
+			height: 35px;
+		}
+
+		.mobile-nav .menu-item>a {
+			font-size: 16px;
+			padding: 20px 0;
+		}
+
+		.header-bottom .flex-col.show-for-medium.flex-grow {
+			overflow: auto;
+			white-space: nowrap;
+		}
+
+		.header-bottom .flex-col.show-for-medium.flex-grow .mobile-nav {
+			display: inline-table;
+		}
+
+		.title-content.flex-col {
+			display: none;
+		}
+
+		p.woocommerce-result-count.hide-for-medium {
+			display: none;
+		}
+
+		.product-category .box-image:before {
+			content: "Chủ đề";
+			top: 5px;
+			position: absolute;
+			left: 10px;
+			color: white;
+			right: 0;
+			font-size: 15px;
+			font-weight: normal;
+			z-index: 9;
+			text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+		}
+
+		.hotline-nav span.icon {
+			margin-right: 5px;
+			float: left;
+			background: yellow;
+			width: 25px;
+			height: 25px;
+			line-height: 22px;
+			text-align: center;
+			font-size: 20px;
+			color: green;
+			border-radius: 50%;
+		}
+
+		.hotline-nav a {
+			color: white;
+			font-size: 18px;
+			font-weight: bold;
+		}
+
+		i.icon-shopping-basket {
+			color: black;
+		}
+
+		.nav-dark .nav>li.header-divider {
+			border-left: 1px solid rgba(0, 0, 0, 0.1);
+		}
+
+		.form-flat input:not([type="submit"]),
+		.form-flat textarea,
+		.form-flat select {
+			background-color: rgba(0, 0, 0, 0.03) !important;
+			box-shadow: none;
+			border-color: rgba(255, 255, 255, 0.50) !important;
+			color: currentColor !important;
+			border-radius: 99px !important;
+			height: 28px;
+		}
+
+		.searchform .button.icon i {
+			color: white;
+		}
+
+		.search-field {
+			color: white !important;
+		}
+
+		.search-field::placeholder {
+			color: white;
+		}
+
+		.flex-row input#woocommerce-product-search-field-0 {
+			color: white !important;
+		}
+
+		.screen-reader-text {
+			color: white !important;
+		}
+
+		.nav-dark .form-flat input:not([type="submit"]) {
+			background-color: rgba(0, 0, 0, 0.03) !important;
+		}
+
+		.title-bg.fill.bg-fill.parallax-active {
+			height: 180px !important;
+			transform: translate3d(0px, 133px, 0px) !important;
+			backface-visibility: hidden !important;
+		}
+
+		.intro-description {
+			border: 1px solid #ddd;
+			margin: 0 auto 10px;
+			padding: 15px;
+			border-radius: 3px;
+		}
+
+		.intro-description .intro-title {
+			color: #000;
+			font-size: 1.5em;
+			padding-left: 0;
+		}
+
+		.intro-description p {
+			margin-bottom: 5px;
+			font-weight: 300;
+			background: url(https://halan.net/wp-content/uploads/2020/04/tick-mark-icon.png) left center no-repeat;
+			padding-left: 20px;
+		}
+
+		.has-transparent+.page-title:first-of-type,
+		.has-transparent+#main>.page-title,
+		.has-transparent+#main>div>.page-title,
+		.has-transparent+#main .page-header-wrapper:first-of-type .page-title {
+			padding-top: 185px;
+		}
+
+		.section-title-bold-center span,
+		.section-title-bold span {
+			border: 0px solid rgba(0, 0, 0, 0.1);
+		}
+
+		.section-title b {
+			opacity: .5;
+			background-color: green;
+		}
+
+		.gioithieu_icon {
+			font-weight: bold;
+			padding-top: 5px;
+		}
+
+		.pulll-li a img {
+			padding-right: 10px;
+		}
+
+		.pulll-li {
+			width: 33%;
+			float: left;
+			margin-bottom: 10px;
+		}
+
+		.product-small .box-image {
+			padding: 15px;
+		}
+
+		figcaption {
+			text-align: center;
+		}
+
+		.wp-block-table table {
+			width: 100%;
+			border-spacing: 1px;
+		}
+
+		.wp-block-table tr th {
+			background-color: #f47c4c;
+			color: #fdff00;
+			padding: 10px 0;
+		}
+
+		.wp-block-table tr th,
+		.wp-block-table tr td {
+			text-align: center;
+			border-bottom: 0px solid #ececec;
+		}
+
+		.wp-block-table tr td {
+			padding: .5em;
+		}
+
+		.td-colspan {
+			background: #92d250;
+			font-weight: bold;
+		}
+
+		.wp-block-table tr:nth-child(even) {
+			background-color: #dddddd;
+		}
+
+		.pultd-li {
+			width: 50%;
+			float: left;
+			margin-bottom: 15px;
+		}
+
+		.pultd-li img {
+			padding-right: 10px;
+		}
+
+		.pultd-li .img-pultd {
+			float: left;
+			width: 75px;
+		}
+
+		.pultd-li .content-pultd {
+			padding-top: 15px;
+		}
+
+		.blog-wrapper .badge {
+			display: none;
+		}
+
+		.blog-wrapper .badge .badge-inner {
+			background: #f6f7f77a;
+			color: black;
+		}
+
+		.blog-wrapper .badge.post-date {
+			top: 0;
+		}
+
+		.bvtc1 .is-divider,
+		.bvtrangchu .is-divider {
+			display: none;
+			font-weight: normal;
+		}
+
+		.vsct .icon-box {
+			margin-bottom: 10px;
+		}
+
+		.vsct h3 {
+			margin-bottom: 0;
+		}
+
+		.woocommerce-product-gallery {
+			padding: 15px;
+			border: 1px solid #ddd;
+		}
+
+		.product-main {
+			padding: 0;
+		}
+
+		.product-footer .woocommerce-tabs {
+			padding: 0;
+			border-top: 0px solid #ececec;
+		}
+
+		.product-section {
+			border-top: 0px solid #ececec;
+			margin-top: 20px;
+		}
+
+		div#row-767423248 .col {
+			padding: 0 15px 0 !important;
+		}
+
+		.box-text p,
+		.col-inner p {
+			text-align: justify;
+		}
+
+		.mobile-sidebar.no-scrollbar .nav>li>a {
+			color: #111111;
+		}
+
+		.colsp .col {
+			padding: 0 15px 0px !important;
+		}
+
+		.absolute-footer {
+			display: none;
+		}
+
+		.ci_stripe {
+			display: none;
+		}
+
+		.shop-page-title.category-page-title.page-title {
+			background: #f6f7f7;
+		}
+
+		h1.page-title.is-large.uppercase {
+			font-size: 1.5em;
+			margin-top: 15px;
+		}
+
+		.stuck #logo img {
+			max-height: 80px !important;
+		}
+
+		.nocolor .span {
+			color: rgba(79, 0, 151, 0) !important;
+		}
+
+		.bannertc {
+			margin-top: 85px;
+		}
+
+		.blog-wrapper.blog-archive.page-wrapper {
+			padding-top: 0px;
+		}
+
+		.category .bgcategory {
+			height: 197px;
+			margin-bottom: 30px;
+			background-size: 100% auto;
+			background-repeat: no-repeat;
+		}
+
+		.archive-page-header h1.page-title span {
+			font-size: 36px;
+		}
+
+		h2.title-shop-detail {
+			margin-top: 50px;
+		}
+
+		.schema-faq-section p {
+			margin: 0;
+		}
+
+		p.schema-faq-answer {
+			margin-bottom: 20px;
+		}
+
+		.form-flat input:not([type="submit"]),
+		.form-flat textarea,
+		.form-flat select {
+			border-radius: 10px !important;
+		}
+
+		/*.box-blog-post .box-image .image-cover img {
+		width: 330px;
+		height: 248px;
+		object-fit: cover;
+	}*/
+		.box-blog-post .box-image .image-cover {
+			padding-top: 66% !important;
+		}
+
+		/*.box-blog-post .blog-post-inner .post-title {
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+		width: 100%;
+	}*/
+		p.from_the_blog_excerpt {
+			overflow: hidden;
+			white-space: nowrap;
+			text-overflow: ellipsis;
+			width: 100%;
+		}
+
+		.mobile_chat {
+			background: transparent;
+			position: fixed;
+			bottom: 100px;
+			right: 0;
+			z-index: 9999;
+			width: 65px;
+		}
+
+		.col-xs-3 {
+			width: 100%;
+		}
+
+		.chat-item a {
+			display: block;
+		}
+
+		.chat-item .chat-item-image {
+			width: 100%;
+			float: left;
+		}
+
+		.chat-item .chat-item-image {
+			height: 35px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.chat-item .chat-item-image img {
+			height: 32px;
+		}
+
+		.chat-item .chat-item-text {
+			width: 100%;
+			float: left;
+		}
+
+		.chat-item .chat-item-text {
+			height: 20px;
+			font-size: 11px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.chat-item .chat-item-text {
+			width: 100%;
+			float: left;
+		}
+
+		.chat-item .chat-item-text {
+			height: 20px;
+			font-size: 11px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.nav-dropdown.dark>li>a {
+			color: rgb(0 0 0);
+		}
+
+		.nav-dropdown.dark>li>a:hover {
+			color: rgb(0 0 0);
+		}
+
+		.nav-dropdown.dark .nav-column>li>a {
+			color: rgb(0 0 0);
+		}
+
+		.nav-dropdown.dark .nav-column>li>a:hover {
+			color: rgb(0 0 0);
+		}
+
+		@media screen and (max-width: 768px) {
+			.product-main {
+				padding: 10px 0;
+			}
+
+			.pulll-left {
+				width: 100%;
+			}
+
+			.pultd-li {
+				width: 100%;
+			}
+
+			.pultd-li .content-pultd {
+				padding-top: 0;
+			}
+
+			.ci_stripe {
+				display: none;
+			}
+
+			.header-main li.html.custom {
+				display: inherit;
+			}
+
+			.nav>li>a,
+			.nav-dropdown>li>a,
+			.nav-column>li>a {
+				color: rgb(255, 255, 255);
+				transition: all .2s;
+			}
+
+			.header-wrapper.stuck {
+				height: 55px;
+			}
+
+			.stuck #logo img {
+				max-height: 55px !important;
+			}
+
+			.mobile_chat {
+				background: #fff;
+				bottom: 0;
+				left: 0;
+				width: 100%;
+				box-shadow: #ebebeb 0 0 20px;
+			}
+
+			.col-xs-3 {
+				width: 25%;
+			}
+
+			.chat-item {
+				padding: 5px 10px;
+			}
+
+			.wp-block-table tr th,
+			.wp-block-table tr td {
+				min-width: 180px;
+			}
+		}
+
+		@media screen and (min-width: 770px) {
+			#logo img {
+				max-height: 80px;
+			}
+		}
+	</style>
+	<style id="wpforms-css-vars-root">
+		:root {
+			--wpforms-field-border-radius: 3px;
+			--wpforms-field-background-color: #ffffff;
+			--wpforms-field-border-color: rgba(0, 0, 0, 0.25);
+			--wpforms-field-text-color: rgba(0, 0, 0, 0.7);
+			--wpforms-label-color: rgba(0, 0, 0, 0.85);
+			--wpforms-label-sublabel-color: rgba(0, 0, 0, 0.55);
+			--wpforms-label-error-color: #d63637;
+			--wpforms-button-border-radius: 3px;
+			--wpforms-button-background-color: #066aab;
+			--wpforms-button-text-color: #ffffff;
+			--wpforms-field-size-input-height: 43px;
+			--wpforms-field-size-input-spacing: 15px;
+			--wpforms-field-size-font-size: 16px;
+			--wpforms-field-size-line-height: 19px;
+			--wpforms-field-size-padding-h: 14px;
+			--wpforms-field-size-checkbox-size: 16px;
+			--wpforms-field-size-sublabel-spacing: 5px;
+			--wpforms-field-size-icon-size: 1;
+			--wpforms-label-size-font-size: 16px;
+			--wpforms-label-size-line-height: 19px;
+			--wpforms-label-size-sublabel-font-size: 14px;
+			--wpforms-label-size-sublabel-line-height: 17px;
+			--wpforms-button-size-font-size: 17px;
+			--wpforms-button-size-height: 41px;
+			--wpforms-button-size-padding-h: 15px;
+			--wpforms-button-size-margin-top: 10px;
+
+		}
+	</style>
+</head>
+
+<body
+	class="home page-template page-template-page-blank page-template-page-blank-php page page-id-98 theme-flatsome woocommerce-no-js lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+
+
+	<div id="wrapper">
+
+
+		<header id="header" class="header has-sticky sticky-jump">
+			<div class="header-wrapper">
+				<div id="masthead" class="header-main ">
+					<div class="header-inner flex-row container logo-left" role="navigation">
+
+						<!-- Logo -->
+						<div id="logo" class="flex-col logo">
+							<!-- Header logo -->
+							<a href="https://phanbonmiennam.net/"
+								title="Công Ty XNK Phân Bón Miền Nam - Môi trường nào cây cũng trổ bông" rel="home">
+								<img width="190" height="40" src="test/img/Logo.png" class="header_logo header-logo"
+									alt="Công Ty XNK Phân Bón Miền Nam" />
+								<img width="190" height="40" src="test/img/Logo.png" class="header-logo-dark"
+									alt="Công Ty XNK Phân Bón Miền Nam" /></a>
+						</div>
+
+						<!-- Mobile Left Elements -->
+						<div class="flex-col show-for-medium flex-left">
+							<ul class="mobile-nav nav nav-left ">
+							</ul>
+						</div>
+
+						<!-- Left Elements -->
+						<div class="flex-col hide-for-medium flex-left
+            flex-grow">
+							<ul class="header-nav header-nav-main nav nav-left  nav-uppercase">
+							</ul>
+						</div>
+
+						<!-- Right Elements -->
+						<div class="flex-col hide-for-medium flex-right">
+							<ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
+								<li class="html custom html_topbar_right">
+									<div class="pulll-right"><a href="tel:0986987791">
+											<img src="./test/img/phone-icon-white.png" alt="0986 987 791">0986 987 791
+											<span class="free">(24/7)</span></a></div>
+								</li>
+								<li class="header-divider"></li>
+								<li class="html custom html_top_right_text">
+									<div class="ngonngu"><img src="./test/img/vn.png" alt="Tiếng Việt"> <img
+											src="https://halan.net/wp-content/uploads/2020/04/en.png" alt="Tiếng Anh">
+										</a>
+										<a href="#"></a>
+									</div>
+								</li>
+								<li class="header-search-form search-form html relative has-icon">
+									<div class="header-search-form-wrapper">
+										<div class="searchform-wrapper ux-search-box relative form-flat is-normal">
+											<form role="search" method="get" class="searchform">
+												<div class="flex-row relative">
+													<div class="flex-col flex-grow">
+														<label class="screen-reader-text"
+															for="woocommerce-product-search-field-0">Tìm kiếm:</label>
+														<input type="search" id="woocommerce-product-search-field-0"
+															class="search-field mb-0" placeholder="Tìm kiếm..." value=""
+															name="s" />
+														<input type="hidden" name="post_type" value="product" />
+													</div>
+													<div class="flex-col">
+														<button type="submit" value="Tìm kiếm"
+															class="ux-search-submit submit-button secondary button icon mb-0"
+															aria-label="Submit">
+															<i class="icon-search"></i> </button>
+													</div>
+												</div>
+												<div class="live-search-results text-left z-top"></div>
+											</form>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+
+						<!-- Mobile Right Elements -->
+						<div class="flex-col show-for-medium flex-right">
+							<ul class="mobile-nav nav nav-right ">
+								<li class="html custom html_top_right_text">
+									<div class="ngonngu"><img src="https://halan.net/wp-content/uploads/2020/04/vn.png"
+											alt="Tiếng Việt"> <img
+											src="https://halan.net/wp-content/uploads/2020/04/en.png" alt="Tiếng Anh">
+										</a>
+										<a href="#"></a>
+									</div>
+								</li>
+								<li class="header-divider"></li>
+								<li class="nav-icon has-icon">
+									<a href="#" data-open="#main-menu" data-pos="center" data-bg="main-menu-overlay"
+										data-color="" class="is-small" aria-label="Menu" aria-controls="main-menu"
+										aria-expanded="false">
+
+										<i class="icon-menu"></i>
+										<span class="menu-title uppercase hide-for-small">Menu</span> </a>
+								</li>
+							</ul>
+						</div>
+
+					</div>
+
+					<div class="container">
+						<div class="top-divider full-width"></div>
+					</div>
+				</div>
+				<div id="wide-nav" class="header-bottom wide-nav hide-for-medium">
+					<div class="flex-row container">
+
+						<div class="flex-col hide-for-medium flex-left">
+							<ul
+								class="nav header-nav header-bottom-nav nav-left  nav-size-large nav-spacing-large nav-uppercase">
+							</ul>
+						</div>
+
+
+						<div class="flex-col hide-for-medium flex-right flex-grow">
+							<ul
+								class="nav header-nav header-bottom-nav nav-right  nav-size-large nav-spacing-large nav-uppercase">
+								<li id="menu-item-993"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-98 current_page_item menu-item-993 active menu-item-design-default">
+									<a href="" aria-current="page" class="nav-top-link">TRANG CHỦ</a>
+								</li>
+								<li id="menu-item-1868"
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1868 menu-item-design-default">
+									<a href="#" class="nav-top-link">GIỚI THIỆU</a></li>
+								<li id="menu-item-3095"
+									class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-3095 menu-item-design-default has-dropdown">
+									<a href="" class="nav-top-link">PHÂN BÓN<i class="icon-angle-down"></i></a>
+									<ul class="sub-menu nav-dropdown nav-dropdown-simple dark">
+										<li id="menu-item-1093"
+											class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-1093 nav-dropdown-col">
+											<a href="">Nhóm NPK Công
+												Thức</a>
+											<ul class="sub-menu nav-column nav-dropdown-simple dark">
+												<li id="menu-item-1096"
+													class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1096">
+													<a href="#">Nhóm Phân Công Thức L</a></li>
+												<li id="menu-item-1097"
+													class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1097">
+													<a href="#">Nhóm Phân Công Thức V</a></li>
+												<li id="menu-item-1095"
+													class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1095">
+													<a href="#">Nhóm Phân Công Thức J</a></li>
+												<li id="menu-item-1094"
+													class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1094">
+													<a href="#">Công Thức Cân Bằng</a></li>
+												<li id="menu-item-9577"
+													class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9577">
+													<a href="#">Nhóm NPK Vi lượng Chelate</a></li>
+											</ul>
+										</li>
+
+								</li>
+
+								</li>
+
+								</li>
+							</ul>
+							</li>
+							<li id="menu-item-2819"
+								class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2819 menu-item-design-default has-dropdown">
+								<a href="#" class="nav-top-link">KIẾN THỨC NHÀ NÔNG<i class="icon-angle-down"></i></a>
+								<ul class="sub-menu nav-dropdown nav-dropdown-simple dark">
+									<li id="menu-item-1396"
+										class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1396">
+										<a href="#">Kỹ Thuật Bón Phân</a></li>
+									<li id="menu-item-1397"
+										class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1397">
+										<a href="#">Kỹ Thuật Trồng Trọt</a></li>
+								</ul>
+							</li>
+							<li id="menu-item-1395"
+								class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1395 menu-item-design-default has-dropdown">
+								<a href="#" class="nav-top-link">TIN TỨC<i class="icon-angle-down"></i></a>
+								<ul class="sub-menu nav-dropdown nav-dropdown-simple dark">
+									<li id="menu-item-1399"
+										class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1399">
+										<a href="#">Tin Tức &amp; Sự Kiện</a></li>
+									<li id="menu-item-1398"
+										class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1398">
+										<a href="#">Khuyến Mãi</a></li>
+								</ul>
+							</li>
+							<li id="menu-item-1869"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1869 menu-item-design-default">
+								<a href="#" class="nav-top-link">HỢP TÁC</a></li>
+							<li id="menu-item-1978"
+								class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1978 menu-item-design-default has-dropdown">
+								<a href="#" class="nav-top-link">TUYỂN DỤNG<i class="icon-angle-down"></i></a>
+								<ul class="sub-menu nav-dropdown nav-dropdown-simple dark">
+									<li id="menu-item-2057"
+										class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2057">
+										<a href="#">Chính sách nhân sự</a></li>
+									<li id="menu-item-2058"
+										class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2058">
+										<a href="#">Thông tin tuyển dụng</a></li>
+								</ul>
+							</li>
+							<li id="menu-item-1870"
+								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1870 menu-item-design-default">
+								<a href="#" class="nav-top-link">LIÊN HỆ</a></li>
+							</ul>
+						</div>
+
+
+					</div>
+				</div>
+
+				<div class="header-bg-container fill">
+					<div class="header-bg-image fill"></div>
+					<div class="header-bg-color fill"></div>
+				</div>
+			</div>
+		</header>
+
+
+		<main id="main" class="">
+
+
+			<div id="content" role="main" class="content-area">
+
+
+				<section class="section" id="section_1732384275">
+					<div class="bg section-bg fill bg-fill  bg-loaded">
+
+					</div>
+
+					<div class="section-content relative">
+
+						<h1 style="display: none;">Công ty XNK Phân bón miền nam</h1>
+						<div class="slider-wrapper relative" id="slider-1272367468">
+							<div class="slider slider-nav-circle slider-nav-large slider-nav-light slider-style-normal"
+								data-flickity-options='{
+            "cellAlign": "center",
+            "imagesLoaded": true,
+            "lazyLoad": 1,
+            "freeScroll": false,
+            "wrapAround": true,
+            "autoPlay": 4000,
+            "pauseAutoPlayOnHover" : true,
+            "prevNextButtons": true,
+            "contain" : true,
+            "adaptiveHeight" : true,
+            "dragThreshold" : 10,
+            "percentPosition": true,
+            "pageDots": true,
+            "rightToLeft": false,
+            "draggable": true,
+            "selectedAttraction": 0.1,
+            "parallax" : 0,
+            "friction": 0.6        }'>
+
+								<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_40673271">
+									<div class="img-inner dark">
+										<img width="1020" height="378" src="./test/img/home-banner.jpg"
+											sizes="(max-width: 1020px) 100vw, 1020px" />
+									</div>
+
+									<style>
+										#image_40673271 {
+											width: 100%;
+										}
+									</style>
+								</div>
+
+
+
+
+
+
+								<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1319497469">
+									<div class="img-inner dark">
+										<img width="1020" height="378"
+											src="https://halan.net/wp-content/uploads/2020/07/phanbonhalan-website-trangchu-8.png"
+											class="attachment-large size-large" alt="" loading="lazy"
+											srcset="https://halan.net/wp-content/uploads/2020/07/phanbonhalan-website-trangchu-8.png 1360w, https://halan.net/wp-content/uploads/2020/07/phanbonhalan-website-trangchu-8-800x296.png 800w, https://halan.net/wp-content/uploads/2020/07/phanbonhalan-website-trangchu-8-768x285.png 768w, https://halan.net/wp-content/uploads/2020/07/phanbonhalan-website-trangchu-8-300x111.png 300w, https://halan.net/wp-content/uploads/2020/07/phanbonhalan-website-trangchu-8-600x222.png 600w"
+											sizes="(max-width: 1020px) 100vw, 1020px" />
+									</div>
+
+									<style>
+										#image_1319497469 {
+											width: 100%;
+										}
+									</style>
+								</div>
+
+							</div>
+
+							<div class="loading-spin dark large centered"></div>
+
+						</div>
+
+					</div>
+
+
+					<style>
+						#section_1732384275 {
+							padding-top: 0px;
+							padding-bottom: 0px;
+						}
+					</style>
+				</section>
+
+				<div class="row" id="row-896388391">
+
+					<div id="col-4156189" class="col medium-9 small-12 large-12">
+						<div class="col-inner">
+
+
+							<div class="container section-title-container">
+								<h2 class="section-title section-title-bold"><b></b><span class="section-title-main"
+										style="color:rgb(79, 0, 151);"><i class="icon-angle-down"></i>Nhóm Sản Phẩm Tiêu
+										Biểu Của Phân Bón Miền Nam</span><b></b></h2>
+							</div>
+							<div class="owl-carousel owl-theme" >
+								<div class="item ">
+									<div class="box has-hover   has-hover box-bounce box-text-bottom">
+										<div class="box-image">
+											<div class="">
+												<a target="_blank"
+													href="https://www.nongnghiepsachvn.net/npkhuuconuoc">
+													<img width="400" height="300" src="test/img/product/30-10-10.png"
+														class="attachment- size-" alt="Trichoderma Bacillus"
+														loading="lazy" sizes="(max-width: 400px) 100vw, 400px" />
+												</a>
+											</div>
+										</div>
+
+										<div class="box-text text-left is-small"
+											style="background-color:rgb(255, 255, 255);">
+											<div class="box-text-inner">
+												<h3><a target="_blank" href="https://www.nongnghiepsachvn.net/npkhuuconuoc">NPK HỮU CƠ 20L (30-10-10)</a></h3>
+														<p class="price-wrapper">4,800,000đ</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="item ">
+									<div class="box has-hover   has-hover box-bounce box-text-bottom">
+										<div class="box-image">
+											<div class="">
+												<a target="_blank"
+													href="https://www.nongnghiepsachvn.net/npkhuuconuoc">
+													<img width="400" height="300" src="test/img/product/DAP.png"
+														class="attachment- size-" alt="Trichoderma Bacillus"
+														loading="lazy" sizes="(max-width: 400px) 100vw, 400px" />
+												</a>
+											</div>
+										</div>
+
+										<div class="box-text text-left is-small"
+											style="background-color:rgb(255, 255, 255);">
+											<div class="box-text-inner">
+
+												<h3><a target="_blank"
+														href="https://www.nongnghiepsachvn.net/npkhuuconuoc">DAP SIÊU KÍCH RỄ 20L</a></h3>
+														<p class="price-wrapper">4,400,000đ</p>
+											</div>
+										</div>
+									</div>
+								</div>		
+								<div class="item ">
+									<div class="box has-hover   has-hover box-bounce box-text-bottom">
+										<div class="box-image">
+											<div class="">
+												<a target="_blank"
+													href="https://www.nongnghiepsachvn.net/npkhuuconuoc">
+													<img width="400" height="300" src="test/img/product/15-15-15.png"
+														class="attachment- size-" alt="Trichoderma Bacillus"
+														loading="lazy" sizes="(max-width: 400px) 100vw, 400px" />
+												</a>
+											</div>
+										</div>
+
+										<div class="box-text text-left is-small"
+											style="background-color:rgb(255, 255, 255);">
+											<div class="box-text-inner">
+
+												<h3><a target="_blank"
+														href="https://www.nongnghiepsachvn.net/npkhuuconuoc">NPK SIÊU LÂN 20L</a></h3>
+														<p class="price-wrapper">4,800,000đ</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="item ">
+									<div class="box has-hover   has-hover box-bounce box-text-bottom">
+										<div class="box-image">
+											<div class="">
+												<a target="_blank"
+													href="https://www.nongnghiepsachvn.net/npkhuuconuoc">
+													<img width="400" height="300" src="test/img/product/Calcium18.png"
+														class="attachment- size-" alt="Trichoderma Bacillus"
+														loading="lazy" sizes="(max-width: 400px) 100vw, 400px" />
+												</a>
+											</div>
+										</div>
+
+										<div class="box-text text-left is-small"
+											style="background-color:rgb(255, 255, 255);">
+											<div class="box-text-inner">
+
+												<h3><a target="_blank"
+														href="https://www.nongnghiepsachvn.net/npkhuuconuoc">CALCIUM CHỐNG RỤNG 20L</a></h3>
+														<p class="price-wrapper">4,400,000đ</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="item ">
+									<div class="box has-hover   has-hover box-bounce box-text-bottom">
+										<div class="box-image">
+											<div class="">
+												<a target="_blank"
+													href="https://www.nongnghiepsachvn.net/npkhuuconuoc">
+													<img width="400" height="300" src="test/img/product/10-10-30.png"
+														class="attachment- size-" alt="Trichoderma Bacillus"
+														loading="lazy" sizes="(max-width: 400px) 100vw, 400px" />
+												</a>
+											</div>
+										</div>
+
+										<div class="box-text text-left is-small"
+											style="background-color:rgb(255, 255, 255);">
+											<div class="box-text-inner">
+
+												<h3><a target="_blank"
+														href="https://www.nongnghiepsachvn.net/npkhuuconuoc">NPK LỚN TRÁI 20L</a></h3>
+														<p class="price-wrapper">4,800,000đ</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="item ">
+									<div class="box has-hover   has-hover box-bounce box-text-bottom">
+										<div class="box-image">
+											<div class="">
+												<a target="_blank"
+													href="https://www.nongnghiepsachvn.net/npkhuuconuoc">
+													<img width="400" height="300" src="test/img/product/22-22-22.png"
+														class="attachment- size-" alt="Trichoderma Bacillus"
+														loading="lazy" sizes="(max-width: 400px) 100vw, 400px" />
+												</a>
+											</div>
+										</div>
+
+										<div class="box-text text-left is-small"
+											style="background-color:rgb(255, 255, 255);">
+											<div class="box-text-inner">
+
+												<h3><a target="_blank"
+														href="https://www.nongnghiepsachvn.net/npkhuuconuoc">NPK CÂN BẰNG 20L</a></h3>
+														<p class="price-wrapper">5,000,000đ</p>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								
+								<div class="item ">
+									<div class="box has-hover   has-hover box-bounce box-text-bottom">
+										<div class="box-image">
+											<div class="">
+												<a target="_blank"
+													href="https://www.nongnghiepsachvn.net/tricho-bacillus-km">
+													<img width="400" height="300" src="test/img/product/tricho.jpg"
+														class="attachment- size-" alt="Trichoderma Bacillus"
+														loading="lazy" sizes="(max-width: 400px) 100vw, 400px" />
+												</a>
+											</div>
+										</div>
+
+										<div class="box-text text-left is-small"
+											style="background-color:rgb(255, 255, 255);">
+											<div class="box-text-inner">
+
+												<h3><a target="_blank"
+														href="https://www.nongnghiepsachvn.net/tricho-bacillus-km">Trichoderma
+														Bacillus Xô 10l</a></h3>
+														<p class="price-wrapper">1,440,000đ</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="item ">
+										<div class="box has-hover   has-hover box-bounce box-text-bottom">
+											<div class="box-image">
+												<div class="">
+													<a target="_blank" href="https://www.phanbonorganic.com/">
+														<img width="400" height="300" src="test/img/product/aplus.png"
+															class="attachment- size-" alt="" loading="lazy"
+															sizes="(max-width: 400px) 100vw, 400px" />
+													</a>
+												</div>
+											</div>
+
+											<div class="box-text text-left is-small"
+												style="background-color:rgb(255, 255, 255);">
+												<div class="box-text-inner">
+
+													<h3><a target="_blank" href="https://www.phanbonorganic.com/">Đạm
+															hưu cơ Aplus 5kg</a></h3>
+															<p class="price-wrapper">1,350,000đ</p>
+												</div>
+											</div>
+										</div>
+
+								</div>
+								<div class="item">
+									<div class="box has-hover   has-hover box-bounce box-text-bottom">
+										<div class="box-image">
+											<div class="">
+												<a target="_blank"
+													href="https://www.nongnghiepsachvn.net/damtom-agrium-giam-45">
+													<img width="400" height="300" src="test/img/product/damtom.png"
+														class="attachment- size-" alt="" loading="lazy"
+														sizes="(max-width: 400px) 100vw, 400px" />
+												</a>
+											</div>
+										</div>
+
+										<div class="box-text text-left is-small"
+											style="background-color:rgb(255, 255, 255);">
+											<div class="box-text-inner">
+
+												<h3><a target="_blank"
+														href="https://www.nongnghiepsachvn.net/damtom-agrium-giam-45">Đạm
+														tôm Agrium can 20l</a></h3>
+														<p class="price-wrapper">1,875,000đ</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="container section-title-container">
+								<h2 class="section-title section-title-bold"><b></b><span class="section-title-main"
+										style="color:rgb(79, 0, 151);"><i class="icon-angle-down"></i>Sản Phẩm Tiêu Biểu
+										Của Nhà Máy Phân Bón Miền Nam</span><b></b></h2>
+							</div>
+
+
+							<div class="row large-columns-3 medium-columns- small-columns-2 row-small slider row-slider slider-nav-simple slider-nav-push"
+								data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 3000}'>
+								<div class="col">
+									<div class="col-inner">
+
+										<div class="badge-container absolute left top z-1">
+										</div>
+
+										<div class="product-small box has-hover box-bounce box-text-bottom">
+											<div class="box-image">
+												<div class="">
+													<a href="https://www.nongnghiepsachvn.net/tricho-bacillus-km">
+														<img width="300" height="421"
+															src="test/img/product/siulontrai.png"
+															class="show-on-hover absolute fill hide-for-small back-image"
+															alt="" loading="lazy"
+															sizes="(max-width: 300px) 100vw, 300px" />
+														<img width="300" height="421"
+															src="test/img/product/siulontrai.png"
+															class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+															alt="" loading="lazy"
+															sizes="(max-width: 300px) 100vw, 300px" />
+													</a>
+												</div>
+												<div class="image-tools top right show-on-hover">
+												</div>
+												<div
+													class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+												</div>
+											</div>
+
+											<div class="box-text text-left">
+												<div class="title-wrapper">
+													<p class="name product-title woocommerce-loop-product__title">
+														<a href="https://www.nongnghiepsachvn.net/tricho-bacillus-km"
+															class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Siêu
+															lớn trái - Bóng Trái - Đẹp Mã - Chắc Hạt</a>
+													</p>
+												</div>
+												<div class="price-wrapper">150,000đ</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+
+								<div class="col">
+									<div class="col-inner">
+
+										<div class="badge-container absolute left top z-1">
+										</div>
+										<div class="product-small box has-hover box-bounce box-text-bottom">
+											<div class="box-image">
+												<div class="">
+													<a href="https://www.nongnghiepsachvn.net/uu-dai-dam-tom">
+														<img width="300" height="421" src="test/img/product/canxibo.png"
+															class="show-on-hover absolute fill hide-for-small back-image"
+															alt="" loading="lazy"
+															sizes="(max-width: 300px) 100vw, 300px" />
+														<img width="300" height="421" src="test/img/product/canxibo.png"
+															class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+															alt="" loading="lazy"
+															sizes="(max-width: 300px) 100vw, 300px" />
+													</a>
+												</div>
+												<div class="image-tools top right show-on-hover">
+												</div>
+												<div
+													class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+												</div>
+											</div>
+
+											<div class="box-text text-left">
+												<div class="title-wrapper">
+													<p class="name product-title woocommerce-loop-product__title"><a
+															href="https://www.nongnghiepsachvn.net/uu-dai-dam-tom"
+															class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Canxibo
+
+															Tăng Thụ Phấn - Chống Nứt Trái - Tăng Đậu Trái - Chống
+															Rụng</a></p>
+												</div>
+												<div class="price-wrapper">150,000đ
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+
+								<div class="col">
+									<div class="col-inner">
+
+										<div class="badge-container absolute left top z-1">
+										</div>
+										<div class="product-small box has-hover box-bounce box-text-bottom">
+											<div class="box-image">
+												<div class="">
+													<a href="https://www.phanbonorganic.com/">
+														<img width="300" height="421" src="test/img/product/votdot.png"
+															class="show-on-hover absolute fill hide-for-small back-image"
+															alt="" loading="lazy"
+															sizes="(max-width: 300px) 100vw, 300px" />
+														<img width="300" height="421" src="test/img/product/votdot.png"
+															class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+															alt="" loading="lazy"
+															sizes="(max-width: 300px) 100vw, 300px" />
+													</a>
+												</div>
+												<div class="image-tools top right show-on-hover">
+												</div>
+												<div
+													class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+												</div>
+											</div>
+
+											<div class="box-text text-left">
+												<div class="title-wrapper">
+													<p class="name product-title woocommerce-loop-product__title"><a
+															href="https://www.phanbonorganic.com/"
+															class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Siêu
+															vọt đọt - Siêu đâm chòi, đẻ nhánh, bung rễ khoẻ</a></p>
+												</div>
+												<div class="price-wrapper">150,000đ</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+
+								<div class="col">
+									<div class="col-inner">
+
+										<div class="badge-container absolute left top z-1">
+										</div>
+										<div class="product-small box has-hover box-bounce box-text-bottom">
+											<div class="box-image">
+												<div class="">
+													<a href="">
+														<img width="300" height="421"
+															src="/test/img/product/siukichhoa.png"
+															class="show-on-hover absolute fill hide-for-small back-image"
+															alt="Phân bón NPK 20-5-6+TE Vi lượng Chelate" loading="lazy"
+															sizes="(max-width: 300px) 100vw, 300px" />
+														<img width="300" height="421"
+															src="/test/img/product/siukichhoa.png"
+															class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+															alt="Phân bón NPK 20-5-6+TE Vi lượng Chelate" loading="lazy"
+															sizes="(max-width: 300px) 100vw, 300px" />
+													</a>
+												</div>
+												<div class="image-tools top right show-on-hover">
+												</div>
+												<div
+													class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+												</div>
+											</div>
+
+											<div class="box-text text-left">
+												<div class="title-wrapper">
+													<p class="name product-title woocommerce-loop-product__title">
+														<a href=""
+															class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Siêu
+															kích hoa - Lá to xanh, dày, bóng mượt. Phòng bệnh chủ
+															động</a>
+													</p>
+												</div>
+												<div class="price-wrapper">150,000đ</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+
+
+
+
+				</div>
+				<div class="row" id="row-813694732">
+
+					<div id="col-949563484" class="col medium-5 small-12 large-5">
+						<div class="col-inner">
+
+
+							<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_602260092">
+								<div class="img-inner dark">
+									<img width="500" height="300"
+										src="https://halan.net/wp-content/uploads/2020/04/home_phan_bon_ha_lan_500x300.png"
+										class="attachment-large size-large" alt="" loading="lazy"
+										srcset="https://halan.net/wp-content/uploads/2020/04/home_phan_bon_ha_lan_500x300.png 500w, https://halan.net/wp-content/uploads/2020/04/home_phan_bon_ha_lan_500x300-300x180.png 300w"
+										sizes="(max-width: 500px) 100vw, 500px" />
+								</div>
+
+								<style>
+									#image_602260092 {
+										width: 100%;
+									}
+								</style>
+							</div>
+
+						</div>
+					</div>
+
+
+
+					<div id="col-1265070733" class="col medium-7 small-12 large-7">
+						<div class="col-inner">
+
+
+							<div class="container section-title-container">
+								<h2 class="section-title section-title-bold"><b></b><span class="section-title-main"
+										style="color:rgb(79, 0, 151);"><i class="icon-angle-down"></i>Giới thiệu Về Công
+										Ty Phân Bón Miền Nam</span><b></b></h2>
+							</div>
+							<p>Công ty Phân Bón Miền Nam chuyên sản xuất kinh doanh <strong><a>phân bón</a></strong> các
+								loại. Phân Bón Miền Nam cung cấp cho thị trường và bà con nông dân những chủng loại phân
+								bón phong phú, đáp ứng hầu hết nhu cầu của cây trồng cũng như tiêu thụ.</p>
+							<div class="pulll-left">
+								<div class="pulll-li"><a href="#"><img
+											src="https://halan.net/wp-content/uploads/2020/04/history-icon.png"
+											alt="Lịch sử" />Lịch sử</a></div>
+								<div class="pulll-li"><a href="#"><img
+											src="https://halan.net/wp-content/uploads/2020/04/tamnhin-icon.png"
+											alt="Tầm nhìn" />Tầm nhìn</a></div>
+								<div class="pulll-li"><a href="#"><img
+											src="https://halan.net/wp-content/uploads/2020/04/giatri-icon.png"
+											alt="Giá trị" />Giá trị</a></div>
+							</div>
+							<div class="pulll-left">
+								<div class="pulll-li"><a href="#"><img
+											src="https://halan.net/wp-content/uploads/2020/04/tochuc-icon.png"
+											alt="Tổ chức" />Tổ chức</a></div>
+								<div class="pulll-li"><a href="#"><img
+											src="https://halan.net/wp-content/uploads/2020/04/nhamay-icon.png"
+											alt="Nhà máy" />Nhà máy</a></div>
+								<div class="pulll-li"><a href="#"><img
+											src="https://halan.net/wp-content/uploads/2020/04/giaithuong-icon.png"
+											alt="Giải thưởng" />Giải thưởng</a></div>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+				<div class="row" id="row-1892941251">
+
+					<div id="col-1930927604" class="col vsct medium-8 small-12 large-8">
+						<div class="col-inner">
+
+
+							<div class="container section-title-container">
+								<h2 class="section-title section-title-bold"><b></b><span class="section-title-main"
+										style="color:rgb(79, 0, 151);"><i class="icon-angle-down"></i>Vì Sao Nên Chọn
+										Nhà Máy Phân Bón Miền Nam?</span><b></b></h2>
+							</div>
+
+							<div class="icon-box featured-box icon-box-left text-left">
+								<div class="icon-box-img" style="width: 50px">
+									<div class="icon">
+										<div class="icon-inner">
+											<img width="120" height="120"
+												src="https://halan.net/wp-content/uploads/2020/04/icon-vechungtoi.jpg"
+												class="attachment-medium size-medium" alt="" loading="lazy"
+												srcset="https://halan.net/wp-content/uploads/2020/04/icon-vechungtoi.jpg 120w, https://halan.net/wp-content/uploads/2020/04/icon-vechungtoi-100x100.jpg 100w"
+												sizes="(max-width: 120px) 100vw, 120px" />
+										</div>
+									</div>
+								</div>
+								<div class="icon-box-text last-reset">
+
+									<h3>Về chúng tôi</h3>
+									<p>Công ty Cổ phần Phân bón Miền Nam được thành lập với sứ mệnh mang đến cho bà con
+										nông dân những sản phẩm chất lượng, tạo niềm tin tuyệt đối cho bà con.</p>
+								</div>
+							</div>
+
+
+
+							<div class="icon-box featured-box icon-box-left text-left">
+								<div class="icon-box-img" style="width: 50px">
+									<div class="icon">
+										<div class="icon-inner">
+											<img width="120" height="120"
+												src="https://halan.net/wp-content/uploads/2020/04/icon-chatluong.jpg"
+												class="attachment-medium size-medium" alt="" loading="lazy"
+												srcset="https://halan.net/wp-content/uploads/2020/04/icon-chatluong.jpg 120w, https://halan.net/wp-content/uploads/2020/04/icon-chatluong-100x100.jpg 100w"
+												sizes="(max-width: 120px) 100vw, 120px" />
+										</div>
+									</div>
+								</div>
+								<div class="icon-box-text last-reset">
+
+									<h3>Chất lượng</h3>
+									<p>Phòng thí nghiệm, trang thiết bị của Nhà máy Phân bón Miền Nam đều tân tiến và
+										hiện đại cùng với đội ngũ cán bộ nhân viên lành nghề nên đảm bảo sản phẩm phân
+										bón được sản xuất ra luôn đạt chất lượng tốt nhất.</p>
+								</div>
+							</div>
+
+
+
+							<div class="icon-box featured-box icon-box-left text-left">
+								<div class="icon-box-img" style="width: 50px">
+									<div class="icon">
+										<div class="icon-inner">
+											<img width="120" height="120"
+												src="https://halan.net/wp-content/uploads/2020/04/icon-sanphamdadang.jpg"
+												class="attachment-medium size-medium" alt="" loading="lazy"
+												srcset="https://halan.net/wp-content/uploads/2020/04/icon-sanphamdadang.jpg 120w, https://halan.net/wp-content/uploads/2020/04/icon-sanphamdadang-100x100.jpg 100w"
+												sizes="(max-width: 120px) 100vw, 120px" />
+										</div>
+									</div>
+								</div>
+								<div class="icon-box-text last-reset">
+
+									<h3>Sản phẩm đa dạng</h3>
+									<p>Hiện nay Nhà máy Phân bón Miền Nam đã đưa ra thi trường hơn 100 sản phẩm phân bón
+										đa dạng hóa các chủng loại.</p>
+								</div>
+							</div>
+
+
+
+							<div class="icon-box featured-box icon-box-left text-left">
+								<div class="icon-box-img" style="width: 50px">
+									<div class="icon">
+										<div class="icon-inner">
+											<img width="120" height="120"
+												src="https://halan.net/wp-content/uploads/2020/04/icon-dichvu.jpg"
+												class="attachment-medium size-medium" alt="" loading="lazy"
+												srcset="https://halan.net/wp-content/uploads/2020/04/icon-dichvu.jpg 120w, https://halan.net/wp-content/uploads/2020/04/icon-dichvu-100x100.jpg 100w"
+												sizes="(max-width: 120px) 100vw, 120px" />
+										</div>
+									</div>
+								</div>
+								<div class="icon-box-text last-reset">
+
+									<h3>Dịch vụ</h3>
+									<p>Công ty phân bón Miền Nam không ngừng nâng cao chất lượng dịch vụ, lấy khách hàng
+										làm trọng tâm và cây trồng làm trọng điểm để ngày càng chuyên nghiệp hóa và tự
+										động hóa trong sản xuất.</p>
+								</div>
+							</div>
+
+
+
+							<div class="icon-box featured-box icon-box-left text-left">
+								<div class="icon-box-img" style="width: 50px">
+									<div class="icon">
+										<div class="icon-inner">
+											<img width="120" height="120"
+												src="https://halan.net/wp-content/uploads/2020/04/icon-chungnhan.jpg"
+												class="attachment-medium size-medium" alt="" loading="lazy"
+												srcset="https://halan.net/wp-content/uploads/2020/04/icon-chungnhan.jpg 120w, https://halan.net/wp-content/uploads/2020/04/icon-chungnhan-100x100.jpg 100w"
+												sizes="(max-width: 120px) 100vw, 120px" />
+										</div>
+									</div>
+								</div>
+								<div class="icon-box-text last-reset">
+
+									<h3>Chứng nhận về chất lượng</h3>
+									<p>Top 100 thương hiệu nổi tiếng &#8211; Thương hiệu hàng đầu top brand 2015 &#8211;
+										Doanh nghiệp vì nhà nông.</p>
+								</div>
+							</div>
+
+
+						</div>
+					</div>
+
+
+
+					<div id="col-389706713" class="col medium-4 small-12 large-4">
+						<div class="col-inner">
+
+
+
+							<div class="banner has-hover" id="banner-609884770">
+								<div class="banner-inner fill">
+									<div class="banner-bg fill">
+										<div class="bg fill bg-fill "></div>
+										<div class="overlay"></div>
+									</div>
+									<div class="banner-layers container">
+										<div class="fill banner-link"></div>
+										<div id="text-box-1767267179"
+											class="text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text">
+											<div class="text dark">
+
+												<div class="text-inner text-center">
+
+													<div id="gap-311026523" class="gap-element clearfix"
+														style="display:block; height:auto;">
+
+														<style>
+															#gap-311026523 {
+																padding-top: 20px;
+															}
+														</style>
+													</div>
+
+													<h3 class="uppercase"><span style="font-size: 110%;"><strong>TVC
+																Phân Bón Miền Nam</strong></span></h3>
+													<div class="video-button-wrapper" style="font-size:190%"><a
+															href="https://www.youtube.com/@phanbonhuuco.cattuongagri"
+															class="button open-video icon circle is-outline is-xlarge"><i
+																class="icon-play" style="font-size:1.5em;"></i></a>
+													</div>
+												</div>
+											</div>
+
+											<style>
+												#text-box-1767267179 {
+													width: 60%;
+												}
+
+												#text-box-1767267179 .text {
+													font-size: 100%;
+												}
+											</style>
+										</div>
+
+									</div>
+								</div>
+
+
+								<style>
+									#banner-609884770 {
+										padding-top: 580px;
+									}
+
+									#banner-609884770 .bg.bg-loaded {
+										background-image: url(https://halan.net/wp-content/uploads/2020/04/tvc-phan-bon-ha-lan.png);
+									}
+
+									#banner-609884770 .overlay {
+										background-color: rgba(0, 0, 0, 0.13);
+									}
+
+									#banner-609884770 .bg {
+										background-position: 4% 62%;
+									}
+								</style>
+							</div>
+
+
+						</div>
+					</div>
+
+
+				</div>
+				<div class="container section-title-container">
+					<h2 class="section-title section-title-bold"><b></b><span class="section-title-main"
+							style="color:rgb(79, 0, 151);"><i class="icon-angle-down"></i>Kiến Thức Nhà Nông &amp; Tin
+							Tức</span><b></b></h2>
+				</div>
+				<div class="row" id="row-196219948">
+
+					<div id="col-870497277" class="col medium-5 small-12 large-5">
+						<div class="col-inner">
+
+
+
+
+							<div class="row bvtc1 large-columns-1 medium-columns-1 small-columns-1 slider row-slider slider-nav-reveal slider-nav-push"
+								data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : false}'>
+
+								<div class="col post-item">
+									<div class="col-inner">
+										<a href="" class="plain">
+											<div class="box box-bounce box-text-bottom box-blog-post has-hover">
+												<div class="box-image">
+													<div class="image-cover" style="padding-top:56%;">
+														<img width="533" height="400"
+															src="https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_15527-533x400.jpg"
+															class="attachment-medium size-medium wp-post-image" alt=""
+															loading="lazy"
+															srcset="https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_15527-533x400.jpg 533w, https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_15527-300x225.jpg 300w, https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_15527.jpg 600w"
+															sizes="(max-width: 533px) 100vw, 533px" />
+													</div>
+												</div>
+												<div class="box-text text-left"
+													style="background-color:rgb(255, 255, 255);">
+													<div class="box-text-inner blog-post-inner">
+
+
+														<h5 class="post-title is-large ">Phân bón NPK 15-5-27+TE cho mùa
+															bội thu</h5>
+														<div class="post-meta is-small op-8">14 Tháng Tư, 2020</div>
+														<div class="is-divider"></div>
+														<p class="from_the_blog_excerpt ">Các thành phần dinh dưỡng tích
+															hợp trong một viên phân và có độ đồng... </p>
+
+
+
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+
+					<div id="col-1803285985" class="col medium-7 small-12 large-7">
+						<div class="col-inner">
+
+
+
+
+							<div class="row bvtrangchu large-columns-1 medium-columns-1 small-columns-1 row-collapse">
+								<div class="col post-item">
+									<div class="col-inner">
+										<a href="" class="plain">
+											<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+												<div class="box-image" style="width:30%;">
+													<div class="image-cover" style="padding-top:56%;">
+														<img width="533" height="400"
+															src="https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_ha_lan_chuyen_dung_cho_lua-533x400.jpg"
+															class="attachment-medium size-medium wp-post-image" alt=""
+															loading="lazy"
+															srcset="https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_ha_lan_chuyen_dung_cho_lua-533x400.jpg 533w, https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_ha_lan_chuyen_dung_cho_lua-300x225.jpg 300w, https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_ha_lan_chuyen_dung_cho_lua.jpg 600w"
+															sizes="(max-width: 533px) 100vw, 533px" />
+													</div>
+												</div>
+												<div class="box-text text-left">
+													<div class="box-text-inner blog-post-inner">
+
+
+														<h5 class="post-title is-large ">Trọn bộ phân bón Miền Nam
+															chuyên dùng cho lúa</h5>
+														<div class="post-meta is-small op-8">14 Tháng Tư, 2020</div>
+														<div class="is-divider"></div>
+														<p class="from_the_blog_excerpt ">Giúp cây ra rễ cực mạnh, cứng
+															cây, xanh lá,... </p>
+
+
+
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="col post-item">
+									<div class="col-inner">
+										<a href="" class="plain">
+											<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+												<div class="box-image" style="width:30%;">
+													<div class="image-cover" style="padding-top:56%;">
+														<img width="533" height="400"
+															src="https://halan.net/wp-content/uploads/2020/05/banner-sp-cat-600-x-450-533x400.jpg"
+															class="attachment-medium size-medium wp-post-image"
+															alt="cat" loading="lazy"
+															srcset="https://halan.net/wp-content/uploads/2020/05/banner-sp-cat-600-x-450-533x400.jpg 533w, https://halan.net/wp-content/uploads/2020/05/banner-sp-cat-600-x-450-300x225.jpg 300w, https://halan.net/wp-content/uploads/2020/05/banner-sp-cat-600-x-450.jpg 600w"
+															sizes="(max-width: 533px) 100vw, 533px" />
+													</div>
+												</div>
+												<div class="box-text text-left">
+													<div class="box-text-inner blog-post-inner">
+
+
+														<h5 class="post-title is-large ">Cẩm nang sử dụng phân bón cho
+															cây ăn trái, đặc biệt cây có múi</h5>
+														<div class="post-meta is-small op-8">14 Tháng Tư, 2020</div>
+														<div class="is-divider"></div>
+														<p class="from_the_blog_excerpt ">Để cây ăn trái đạt năng suất
+															cao, có chất... </p>
+
+
+
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+								</div>
+								<div class="col post-item">
+									<div class="col-inner">
+										<a href="" class="plain">
+											<div class="box box-vertical box-text-bottom box-blog-post has-hover">
+												<div class="box-image" style="width:30%;">
+													<div class="image-cover" style="padding-top:56%;">
+														<img width="600" height="400"
+															src="https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_ha_lan_chuyen_dung_cho_ca_phe_mua_mua-600x400.jpg"
+															class="attachment-medium size-medium wp-post-image" alt=""
+															loading="lazy"
+															srcset="https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_ha_lan_chuyen_dung_cho_ca_phe_mua_mua-600x400.jpg 600w, https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_ha_lan_chuyen_dung_cho_ca_phe_mua_mua-768x512.jpg 768w, https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_ha_lan_chuyen_dung_cho_ca_phe_mua_mua-300x200.jpg 300w, https://halan.net/wp-content/uploads/2020/04/phan_bon_npk_ha_lan_chuyen_dung_cho_ca_phe_mua_mua.jpg 1023w"
+															sizes="(max-width: 600px) 100vw, 600px" />
+													</div>
+												</div>
+												<div class="box-text text-left">
+													<div class="box-text-inner blog-post-inner">
+
+
+														<h5 class="post-title is-large ">Bộ sản phẩm phân bón Amazon mùa
+															mưa</h5>
+														<div class="post-meta is-small op-8">14 Tháng Tư, 2020</div>
+														<div class="is-divider"></div>
+														<p class="from_the_blog_excerpt ">Vào mùa mưa, cà phê bắt đầu
+															cho trái, đây... </p>
+
+
+
+													</div>
+												</div>
+											</div>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+
+
+			</div>
+
+
+
+		</main>
+
+		<footer id="footer" class="footer-wrapper">
+
+
+			<section class="section bar-footer" id="section_871022807">
+				<div class="bg section-bg fill bg-fill  bg-loaded">
+
+
+
+
+
+				</div>
+
+				<div class="section-content relative">
+
+
+					<div class="row" id="row-383372685">
+
+
+						<div id="col-1307912217" class="col medium-3 small-12 large-3">
+							<div class="col-inner">
+
+
+
+								<div class="hotline-item">
+									<div><b>HOTLINE TƯ VẤN</b></div>
+									<div class="green"><a href="tel:0986987791"><i class="icon-phone"
+												style="font-size: 16px;"></i> 0986 987 791 </a><span
+											class="free">(24/7)</span>
+										<div>Email: info@phanbonmiennam.net</div>
+									</div>
+									<p><span class="all-week">(08:00-17:30, từ Thứ 2 đến Thứ 7)</span></p>
+								</div>
+
+							</div>
+						</div>
+
+
+
+						<div id="col-889376305" class="col medium-6 small-12 large-6">
+							<div class="col-inner">
+
+
+
+								<div><b>CÔNG TY TNHH TMDV XNK PHÂN BÓN Miền Nam</b><br />
+									Địa chỉ: 36 Song Hành - KĐT. Lakeview phường An Phú, Thành Phố Thủ
+									Đức<br />Điện thoại: +84 986 987791<br />Fax: +84 986 987791</div>
+
+							</div>
+						</div>
+
+
+
+						<div id="col-1586327308" class="col medium-3 small-12 large-3">
+							<div class="col-inner">
+
+
+
+								<div>
+									<div class="fb-page"
+										data-href="https://www.facebook.com/profile.php?id=61559662460470" data-tabs=""
+										data-width="" data-height="" data-small-header="false"
+										data-adapt-container-width="true" data-hide-cover="false"
+										data-show-facepile="false">
+										<blockquote cite="https://www.facebook.com/profile.php?id=61559662460470/"
+											class="fb-xfbml-parse-ignore">
+											<p><a href="https://www.facebook.com/profile.php?id=61559662460470">Phân bón
+													Miền Nam</a></p>
+										</blockquote>
+									</div>
+								</div>
+								<div style="margin: 10px 0;"><b>Theo Dõi Chúng Tôi</b></div>
+								<div class="icon-mxh">
+									<a title="Phân Bón Miền Nam"
+										href="https://www.facebook.com/profile.php?id=61559662460470" target="_blank"
+										rel="noopener noreferrer">
+										<img style="float: none;"
+											src="https://halan.net/wp-content/uploads/2020/02/facebookicon.png"
+											alt="Phân Bón Miền Nam" /></a>
+									<a title="Phân Bón Miền Nam" href="#" target="_blank" rel="noopener noreferrer"><img
+											style="float: none;"
+											src="https://halan.net/wp-content/uploads/2020/02/linkedinicon.png"
+											alt="Phân Bón Miền Nam" /></a>
+									<a title="Phân Bón Miền Nam"
+										href="https://www.youtube.com/@%C4%90%E1%BA%A0MT%C3%94MAGRIUM" target="_blank"
+										rel="noopener noreferrer">
+										<img style="float: none;"
+											src="https://halan.net/wp-content/uploads/2020/06/youtubeicon.png"
+											alt="Phân Bón Miền Nam" /></a>
+									<a title="Phân Bón Miền Nam" href="#" target="_blank" rel="noopener noreferrer">
+										<img style="float: none;"
+											src="https://halan.net/wp-content/uploads/2020/02/twittericon.jpg"
+											alt="Phân Bón Miền Nam" /></a>
+									<a title="Phân Bón Miền Nam" href="#" target="_blank" rel="noopener noreferrer"><img
+											style="float: none;"
+											src="https://halan.net/wp-content/uploads/2020/06/zaloicon.jpg"
+											alt="Phân Bón Miền Nam" /></a>
+								</div>
+
+							</div>
+						</div>
+
+
+
+					</div>
+
+				</div>
+
+
+				<style>
+					#section_871022807 {
+						padding-top: 30px;
+						padding-bottom: 30px;
+						background-color: #f47c4c;
+					}
+				</style>
+			</section>
+
+			<section class="mobile_chat hidden-md hidden-lg">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-3 chat-item"><a href="tel:0986987791" class="chat-item-url"></p>
+								<div class="chat-item-image"><img src="./test/img/icon-hotline.gif"
+										class="img-responsive" alt="goi-dien"></div>
+								<div class="chat-item-text">Gọi điện</div>
+								<p>
+							</a></div>
+						<div class="col-xs-3 chat-item"><a href="sms:0986987791" class="chat-item-url"></p>
+								<div class="chat-item-image"><img src="./test/img/icon-sms.png" class="img-responsive"
+										alt="nhan-tin"></div>
+								<div class="chat-item-text">Nhắn tin</div>
+								<p>
+							</a></div>
+						<div class="col-xs-3 chat-item"><a href="http://zalo.me/0986987791" class="chat-item-url"></p>
+								<div class="chat-item-image"><img src="./test/img/zalo-icon.png" class="img-responsive"
+										alt="chat-zalo"></div>
+								<div class="chat-item-text">Chat Zalo</div>
+								<p>
+							</a></div>
+						<div class="col-xs-3 chat-item"><a
+								href="https://www.facebook.com/people/%C4%90%E1%BA%A1m-T%C3%B4m-Agrium-Si%C3%AAu-C%C3%B4-%C4%90%E1%BA%B7c-Pha-20000-L%C3%ADt-N%C6%B0%E1%BB%9Bc/61559662460470/">
+								</p>
+								<div class="chat-item-image"><img src="./test/img/icon-facebookchat.png"
+										class="img-responsive" alt="facebook"></div>
+								<div class="chat-item-text">Facebook</div>
+								<p>
+							</a></div>
+						</p>
+					</div>
+				</div>
+			</section>
+			<div class="absolute-footer light medium-text-center text-center">
+				<div class="container clearfix">
+
+
+					<div class="footer-primary pull-left">
+						<div class="copyright-footer">
+						</div>
+					</div>
+				</div>
+			</div>
+			<a href="#top"
+				class="back-to-top button icon invert plain fixed bottom z-1 is-outline hide-for-medium circle"
+				id="top-link"><i class="icon-angle-up"></i></a>
+
+		</footer>
+
+	</div>
+
+	<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+		<div class="sidebar-menu no-scrollbar text-center">
+			<ul class="nav nav-sidebar nav-vertical nav-uppercase nav-anim">
+				<li class="header-search-form search-form html relative has-icon">
+					<div class="header-search-form-wrapper">
+						<div class="searchform-wrapper ux-search-box relative form-flat is-normal">
+							<form role="search" method="get" class="searchform" action="https://phanbonmiennam.net/">
+								<div class="flex-row relative">
+									<div class="flex-col flex-grow">
+										<label class="screen-reader-text" for="woocommerce-product-search-field-1">Tìm
+											kiếm:</label>
+										<input type="search" id="woocommerce-product-search-field-1"
+											class="search-field mb-0" placeholder="Tìm kiếm..." value="" name="s" />
+										<input type="hidden" name="post_type" value="product" />
+									</div>
+									<div class="flex-col">
+										<button type="submit" value="Tìm kiếm"
+											class="ux-search-submit submit-button secondary button icon mb-0"
+											aria-label="Submit">
+											<i class="icon-search"></i> </button>
+									</div>
+								</div>
+								<div class="live-search-results text-left z-top"></div>
+							</form>
+						</div>
+					</div>
+				</li>
+				<li
+					class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-98 current_page_item menu-item-993">
+					<a href="" aria-current="page">TRANG CHỦ</a></li>
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1868"><a href="#">GIỚI
+						THIỆU</a></li>
+				<li
+					class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-3095">
+					<a href="#">PHÂN BÓN</a>
+					<ul class="sub-menu nav-sidebar-ul children">
+						<li
+							class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-1093">
+							<a href="#">Nhóm NPK Công Thức</a>
+							<ul class="sub-menu nav-sidebar-ul">
+								<li
+									class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1096">
+									<a href="#">Nhóm Phân Công Thức L</a></li>
+								<li
+									class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1097">
+									<a href="#">Nhóm Phân Công Thức V</a></li>
+								<li
+									class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1095">
+									<a href="#">Nhóm Phân Công Thức J</a></li>
+								<li
+									class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1094">
+									<a href="#">Công Thức Cân Bằng</a></li>
+								<li
+									class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-9577">
+									<a href="#">Nhóm NPK Vi lượng Chelate</a></li>
+							</ul>
+						</li>
+
+				</li>
+
+				</li>
+
+				</li>
+			</ul>
+			</li>
+			<li
+				class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2819">
+				<a href="#">KIẾN THỨC NHÀ NÔNG</a>
+				<ul class="sub-menu nav-sidebar-ul children">
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1396"><a
+							href="#">Kỹ Thuật Bón Phân</a></li>
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1397"><a
+							href="#">Kỹ Thuật Trồng Trọt</a></li>
+				</ul>
+			</li>
+			<li
+				class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1395">
+				<a href="#">TIN TỨC</a>
+				<ul class="sub-menu nav-sidebar-ul children">
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1399"><a
+							href="#">Tin Tức &amp; Sự Kiện</a></li>
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1398"><a
+							href="#">Khuyến Mãi</a></li>
+				</ul>
+			</li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1869"><a href="#">HỢP TÁC</a>
+			</li>
+			<li
+				class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1978">
+				<a href="#">TUYỂN DỤNG</a>
+				<ul class="sub-menu nav-sidebar-ul children">
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2057"><a
+							href="#">Chính sách nhân sự</a></li>
+					<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2058"><a
+							href="#">Thông tin tuyển dụng</a></li>
+				</ul>
+			</li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1870"><a href="#">LIÊN HỆ</a>
+			</li>
+			</ul>
+		</div>
+	</div>
+	<div id="login-form-popup" class="lightbox-content mfp-hide">
+		<div class="woocommerce-notices-wrapper"></div>
+		<div class="account-container lightbox-inner">
+
+
+
+
+
+		</div>
+
+	</div>
+
+	<script type='text/javascript'
+		src='https://halan.net/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'
+		id='jquery-blockui-js'></script>
+	<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+		/* <![CDATA[ */
+		var wc_add_to_cart_params = { "ajax_url": "\/wp-admin\/admin-ajax.php", "wc_ajax_url": "\/?wc-ajax=%%endpoint%%", "i18n_view_cart": "Xem gi\u1ecf h\u00e0ng", "cart_url": "https:\/\/halan.net\/cart\/", "is_cart": "", "cart_redirect_after_add": "no" };
+		/* ]]> */
+	</script>
+	
+   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $(".owl-carousel").owlCarousel({
+                loop: true,
+                margin: 10,
+                // nav: true,
+                autoplay: true,
+                autoplayTimeout: 5000,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 2
+                    },
+                    1000: {
+                        items: 3
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

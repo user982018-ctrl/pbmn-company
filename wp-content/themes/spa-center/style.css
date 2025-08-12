@@ -1,0 +1,348 @@
+/*
+Theme Name: Spa Center
+Theme URI: https://blossomthemes.com/wordpress-themes/spa-center/
+Template: blossom-spa  
+Author: Blossom Themes
+Author URI: https://blossomthemes.com/
+Description: The Spa Center is a stunning WordPress theme suitable for building websites for spas and salons. Using this theme, you can create a fully functional and professional website for your businesses like spas, beauty salons, hair salons, wellness centres, massage parlours, yoga studios, meditation classes, nail studios and natural health care or any beauty businesses. This theme is simple to set up and it comes with plenty of features to make your site stand out. The theme includes several sections such as Banner Section with CTA, About, Services, Testimonials, Team, Blog, several Call-to-Actions, and Instagram section to sell your services and introduce your business. This speed-optimized theme is easy to use, mobile-friendly, and SEO-friendly. It is also WooCommerce compatible, translation-ready, RTL script-ready and Schema friendly. Check theme details at https://blossomthemes.com/wordpress-themes/spa-center/, demo at https://blossomthemes.com/theme-demo/?theme=beauty-salon-lite, documentation at https://docs.blossomthemes.com/spa-center/, and get support at https://blossomthemes.com/support-ticket/
+Version: 1.0.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tested up to: 6.0
+Requires PHP: 5.6
+Text Domain: spa-center
+Tags: blog,one-column,two-columns,right-sidebar,left-sidebar,footer-widgets,custom-background,custom-header,custom-menu,custom-logo,featured-images,threaded-comments,full-width-template,rtl-language-support,translation-ready,theme-options,photography,e-commerce
+*/
+
+/*============================
+Variable
+============================*/
+
+:root {
+    --primary-color: #cc768b;
+    --primary-color-rgb: 204, 118, 139;
+    --primary-font: 'Inter', sans-serif;
+    --secondary-font: 'Asar', serif;
+}
+
+/*============================
+Header Five Style
+============================*/
+.site-header.header-five ul.social-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header-five .main-navigation ul li a {
+    text-align: left;
+}
+
+.site-header.header-five .header-contact {
+    justify-content: flex-start;
+}
+
+.header-five .header-t .container {
+    display: flex;
+    flex: 1;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.header-five .header-main .site-branding {
+    text-align: center;
+    align-items: center;
+}
+
+.header-five .header-contact .contact-block svg {
+    position: static;
+    width: 16px;
+    float: left;
+    margin-right: 7px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 10px;
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    transform: translateY(0);
+}
+
+.header-five .header-social .social-list li {
+    font-size: 0.888em;
+}
+
+.header-five .header-social .social-list li a {
+    width: auto;
+    height: auto;
+    line-height: normal;
+    padding-left: 15px;
+    border-left: none;
+}
+
+.header-five .header-contact .contact-block {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    justify-self: center;
+    padding-left: 0;
+    border-left: none;
+}
+
+.header-five .header-contact .contact-block .content {
+    line-height: 1.8;
+    color: #fff;
+    font-weight: 400;
+}
+
+.header-five .header-t {
+    background: #F0F0F0;
+    padding: 10px 0;
+}
+
+.header-five .header-contact .contact-block svg path.phb,
+.header-five .header-contact .contact-block svg path.emb,
+.header-five .header-contact .contact-block svg path.clkb {
+    fill: var(--font-color);
+}
+
+.header-five .header-social .social-list li a:hover {
+    color: var(--primary-color);
+}
+
+.header-five .header-contact .contact-block {
+    align-items: center;
+}
+
+.header-five .header-contact .contact-block svg {
+    width: 20px;
+    margin-top: 0;
+}
+
+.header-five .header-contact .contact-block .content {
+    font-size: 0.7778em;
+    font-weight: 600;
+    color: var(--font-color);
+}
+
+.site-header.header-five .cart a:hover {
+    background: none;
+    color: var(--primary-color);
+}
+
+.header-five .nav-wrap {
+    position: static;
+    border-radius: 0;
+    padding: 0;
+}
+
+.header-five .nav-wrap .main-navigation {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header-five .nav-wrap .nav-right {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header-five .main-navigation ul li {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+.header-five .main-navigation ul li.menu-item-has-children {
+    padding-right: 5px;
+}
+
+.header-five .main-navigation ul ul li.menu-item-has-children {
+    padding-right: 0;
+}
+
+.header-five .main-navigation ul li a {
+    height: 60px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.header-five .main-navigation ul li span {
+    line-height: 60px;
+    top: 0;
+}
+
+.header-five .main-navigation ul li:hover>ul {
+    top: 100%;
+}
+
+.header-five .main-navigation ul ul li:hover>ul {
+    top: 0;
+}
+
+.header-five .main-navigation ul ul li {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.header-five .main-navigation ul ul li span {
+    line-height: 20px;
+    top: 20px;
+}
+
+.header-five .main-navigation ul li a:after {
+    top: auto;
+    bottom: 0;
+}
+
+.header-five .nav-right .header-search:hover {
+    background: none;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+}
+
+.header-five .nav-right .header-search>svg {
+    height: 35px;
+    padding-left: 27px;
+    padding-right: 0;
+}
+
+.site-banner .banner-caption .description p {
+    margin-top: 0;
+    margin-bottom: 1.5em;
+}
+
+.site-banner .banner-caption .description p:last-of-type {
+    margin-bottom: 0;
+}
+
+.site-header.header-five .cart a {
+    width: auto;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 10px;
+    display: inline-block;
+    color: var(--font-color);
+    position: relative;
+}
+
+.site-header.header-five .header-social+.cart a {
+    padding-left: 10px;
+    margin-left: 10px;
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+
+
+.site-header.header-five .cart a .number,
+.site-header.header-five .cart a .count {
+    position: absolute;
+    top: 7px;
+    right: 7px;
+    width: 15px;
+    height: 15px;
+    color: initial;
+    text-align: center;
+    line-height: 14px;
+    border-radius: 100%;
+    font-size: 0.6666em;
+    font-weight: 700;
+    border-color: 1px solid rgba(0, 0, 0, 0.3);
+    background: #F0F0F0;
+}
+
+.site-header.header-five .cart a .count,
+.site-header.header-five .cart a .number {
+    top: 0;
+    right: 0;
+}
+
+/* WooCommerce*/
+.woocommerce div.product .product_title{
+    font-family: var(--primary-font);
+}
+
+.woocommerce div.product .woocommerce-tabs .panel h2{
+    font-family: var(--primary-font);
+}
+
+.woocommerce.widget_shopping_cart ul li a {
+    font-family: var(--secondary-font);
+}
+
+.woocommerce.widget .product_list_widget li .product-title{
+    font-family: var(--secondary-font);
+}
+
+.woocommerce-order-details .woocommerce-order-details__title, 
+.woocommerce-order-received .woocommerce-column__title, 
+.woocommerce-customer-details .woocommerce-column__title {
+    font-family: var(--secondary-font);
+}
+
+/*=============================
+RESPONSIVE STYLESHEET
+=============================*/
+@media screen and (max-width: 1024px) {
+
+    /*==========================
+	HEADER LAYOUT five
+	==========================*/
+    .header-five .header-t {
+        display: none;
+    }
+
+    .header-five .nav-wrap {
+        border-top: none;
+        position: relative;
+        top: 0;
+        left: 0;
+        right: 0;
+        padding-bottom: 24px;
+    }
+
+    .header-five .nav-wrap .container {
+        background: var(--primary-color);
+        border-radius: 5px;
+        width: calc(100% - 30px);
+        text-align: left;
+        padding: 5px 10px;
+        top: 0;
+        position: absolute;
+        left: 0;
+        right: 0;
+        display: flex;
+        flex: 1;
+    }
+
+    .header-five .nav-wrap .nav-right {
+        display: flex;
+    }
+
+    .header-five .nav-wrap {
+        background: none;
+        padding: 0 0 34px 0;
+    }
+
+    .header-five .nav-right .header-search:hover {
+        opacity: 1;
+        filter: alpha(opacity=100);
+        background: rgba(255, 255, 255, 0.1);
+    }
+
+    .header-five .nav-right .header-search>svg {
+        height: 45px;
+        line-height: 45px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .site-banner .item img {
+        width: auto;
+    }
+}
